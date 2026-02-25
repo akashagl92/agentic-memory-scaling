@@ -1,15 +1,15 @@
 # Structured State Convergence for O(1) Memory Scaling in LLM Agents: An Empirical Study of Discovery Limits at 10 Million Turns
 
 **Author**: Akash Agrawal  
-**Affiliation**: PAI v2 Research Unit, Personal Agent — Aether Project  
+**Affiliation**: University of the Cumberlands  
 **Date**: February 25, 2026  
 **Format**: APA v7 Standard  
-**Models Under Test**: Google Gemini 2.5 Flash (002), Google Gemini 2.5 Pro (002)  
+**Models Under Test**: Google Gemini 2.5 Flash (002), Google Gemini 2.5 Pro (002), Google Gemini 3.0 Flash, Google Gemini 3.0 Pro, Anthropic Claude 4.6 Opus, Anthropic Claude 4.6 Sonnet  
 
 ---
 
 ## Abstract
-Long-term memory in Large Language Model (LLM) agents is traditionally managed via recursive summarization or raw archival retrieval. However, recursive methods suffer from "Purpose Fidelity Collapse," where semantic intent degrades exponentially over time. This paper introduces **Structured State Convergence (SSC)**, a novel architecture that distills episodic transcripts into a rigid, schema-based JSON state. We evaluate SSC and its extreme-scale extension, **Recursive Gated Consolidation (RGC)**, using a "Cognitive Stress Test" (CST) scaled up to 10,000,000 turns on Google Gemini 2.5 Flash (002) and Gemini 2.5 Pro (002). Results demonstrate that SSC achieves **0.00 Semantic Entropy** for early-established facts and maintains **>99% Token Efficiency** improvement over baseline systems. We further identify the **Discovery Cliff**—the turn depth where stochastic consolidation failure begins—and through single-variable ablation, establish that **temporal decay rate accounts for 99% of the cliff's position**, while extraction fidelity contributes only 1%. This finding defines a clear **Scaling Law for Agentic Memory** and empirically validates that infinite memory is architecturally achievable when decay is eliminated via gated consolidation.
+Long-term memory in Large Language Model (LLM) agents is traditionally managed via recursive summarization or raw archival retrieval. However, recursive methods suffer from "Purpose Fidelity Collapse," where semantic intent degrades exponentially over time. This paper introduces **Structured State Convergence (SSC)**, a novel architecture that distills episodic transcripts into a rigid, schema-based JSON state. We evaluate SSC and its extreme-scale extension, **Recursive Gated Consolidation (RGC)**, using a "Cognitive Stress Test" (CST) scaled up to 10,000,000 turns across six models spanning three generations: Google Gemini 2.5 Flash/Pro (002), Google Gemini 3.0 Flash/Pro, and Anthropic Claude 4.6 Opus/Sonnet. Results demonstrate that SSC achieves **0.00 Semantic Entropy** for early-established facts and maintains **>99% Token Efficiency** improvement over baseline systems. We further identify the **Discovery Cliff**—the turn depth where stochastic consolidation failure begins—and through single-variable ablation, establish that **temporal decay rate accounts for 99% of the cliff's position**, while extraction fidelity contributes only 1%. This finding defines a clear **Scaling Law for Agentic Memory** and empirically validates that infinite memory is architecturally achievable when decay is eliminated via gated consolidation.
 
 **Keywords**: LLM Memory, Structured State Convergence, Recursive Gated Consolidation, Semantic Entropy, O(1) Memory, Purpose Fidelity, Discovery Cliff, Scaling Laws.
 
@@ -398,7 +398,7 @@ Wei, J., Wang, X., Schuurmans, D., Bosma, M., Ichter, B., Xia, F., Chi, E. H., L
 ## Appendix B: Porting to LaTeX
 - **Template**: Use the `neurips_2026.sty` style file.
 - **Equations**: Convert all `$$...$$` blocks to standard LaTeX `\begin{equation}...\end{equation}`.
-- **Figures**: Use the `graphicx` package; reference `discovery_cliff_flash.png`, `model_comparison_flash_vs_pro.png`, and `ablation_fidelity_vs_decay.png` as native floats.
+- **Figures**: Use the `graphicx` package; reference `discovery_cliff_v5.png`, `model_comparison_v5.png`, `ablation_fidelity_vs_decay_v1.png`, and `ablation_fidelity_vs_decay_v2.png` as native floats.
 - **Tables**: Convert markdown tables to `\begin{table}...\end{table}` with `booktabs` formatting.
 
 ## Appendix C: Figure Registry
