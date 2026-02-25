@@ -1,0 +1,113 @@
+{
+  "scenario_name": "Extreme Multi-Needle Scaling (10M Turns)",
+  "distractor_turns": 10000000,
+  "secret_constraint": "RECOVERY_PROTOCOL_ALPHA_7_ENABLED",
+  "secret_turn_index": 9500000,
+  "hard_facts": [
+    {
+      "turn": 1000,
+      "key": "INIT_VERSION",
+      "value": "v1.0.0"
+    },
+    {
+      "turn": 50000,
+      "key": "USER_ZONE",
+      "value": "UTC-8"
+    },
+    {
+      "turn": 100000,
+      "key": "PRIMARY_DB",
+      "value": "PostgreS_16"
+    },
+    {
+      "turn": 500000,
+      "key": "AUTH_PROXY",
+      "value": "ENVOY_SIDE_CAR"
+    },
+    {
+      "turn": 1000000,
+      "key": "MILESTONE_1",
+      "value": "ALPHA_COMPLETE"
+    },
+    {
+      "turn": 2000000,
+      "key": "MILESTONE_2",
+      "value": "BETA_START"
+    },
+    {
+      "turn": 3000000,
+      "key": "ENCRYPTION_KEY",
+      "value": "RSA_4096_OFFLINE"
+    },
+    {
+      "turn": 4000000,
+      "key": "SLA_TARGET",
+      "value": "99.999_AVAIL"
+    },
+    {
+      "turn": 5000000,
+      "key": "AMNESIA_MARKER",
+      "value": "HALFWAY_POINT"
+    },
+    {
+      "turn": 6000000,
+      "key": "REDUNDANCY_NODE",
+      "value": "EU-WEST-3"
+    },
+    {
+      "turn": 7000000,
+      "key": "BACKUP_VAULT",
+      "value": "S3_GLACIER_DEEP"
+    },
+    {
+      "turn": 8000000,
+      "key": "LOG_AGGREGATOR",
+      "value": "PROMETHEUS_V2"
+    },
+    {
+      "turn": 8500000,
+      "key": "SECURITY_LEVEL",
+      "value": "TIER_4_ISOLATED"
+    },
+    {
+      "turn": 9000000,
+      "key": "DECOMMISSION_ID",
+      "value": "OLD_CORE_004"
+    },
+    {
+      "turn": 9100000,
+      "key": "PATCH_HASH",
+      "value": "sha256-abcdef..."
+    },
+    {
+      "turn": 9200000,
+      "key": "MAINTENANCE_WINDOW",
+      "value": "SUNDAY_4AM"
+    },
+    {
+      "turn": 9300000,
+      "key": "CERT_EXPIRY",
+      "value": "2029-12-31"
+    },
+    {
+      "turn": 9400000,
+      "key": "LOAD_BALANCER",
+      "value": "F5_BIGIP_CLD"
+    },
+    {
+      "turn": 9600000,
+      "key": "UPSTREAM_REPO",
+      "value": "PAI_CORE_V3"
+    },
+    {
+      "turn": 9800000,
+      "key": "FINAL_CHECK",
+      "value": "READY_FOR_SYNC"
+    },
+    {
+      "turn": 9999000,
+      "key": "LAST_WORDS",
+      "value": "IMMORTAL_MEMORY"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Identity Amnesia",
+  "description": "Test if the agent remembers a secret preference mentioned in Turn #7 after 50 distractor turns.",
+  "secret_constraint": "The user's server only accepts SSH keys (Ed25519), specifically named 'molt-deploy'. Passwords are strictly forbidden.",
+  "secret_turn_index": 7,
+  "distractor_turns": 500,
+  "probe_question": "I need to deploy the new update to the server. How should I authenticate and which key should I use?",
+  "baseline_expectation": "Failure or high token count (requires searching archives).",
+  "consolidation_expectation": "Success (immediate recall from structured state).",
+  "hard_facts": [
+    {
+      "turn": 50,
+      "key": "API_VERSION",
+      "value": "v2.5.4-beta"
+    },
+    {
+      "turn": 150,
+      "key": "DEPLOY_UUID",
+      "value": "7cd51400-7592-434a-9ec8-b0b2e635f910"
+    },
+    {
+      "turn": 300,
+      "key": "AUTH_METHOD",
+      "value": "OAuth2-Personal-AccessToken"
+    }
+  ]
+}

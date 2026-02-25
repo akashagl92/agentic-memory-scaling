@@ -1,0 +1,108 @@
+{
+  "scenario_name": "Multi-Needle Robustness Stress Test (1M Turns)",
+  "distractor_turns": 1000000,
+  "secret_constraint": "PROJECT_LOCKED_FOR_MAINTENANCE_UNTIL_2027",
+  "secret_turn_index": 500000,
+  "hard_facts": [
+    {
+      "turn": 100,
+      "key": "USER_BIRTHDAY",
+      "value": "March 15"
+    },
+    {
+      "turn": 5000,
+      "key": "FAVORITE_LANGUAGE",
+      "value": "Python"
+    },
+    {
+      "turn": 10000,
+      "key": "API_KEY",
+      "value": "sk-test-12345"
+    },
+    {
+      "turn": 50000,
+      "key": "OFFICE_LOCATION",
+      "value": "Building 7"
+    },
+    {
+      "turn": 100000,
+      "key": "TEAM_SIZE",
+      "value": "12_ENGINEERS"
+    },
+    {
+      "turn": 150000,
+      "key": "DEPLOY_TARGET",
+      "value": "US-EAST-1"
+    },
+    {
+      "turn": 200000,
+      "key": "DB_FLAVOR",
+      "value": "PostgreS"
+    },
+    {
+      "turn": 250000,
+      "key": "AUTH_METHOD",
+      "value": "JWT_OAUTH2"
+    },
+    {
+      "turn": 300000,
+      "key": "CACHE_TTL",
+      "value": "3600_SECONDS"
+    },
+    {
+      "turn": 400000,
+      "key": "SLA_PERCENT",
+      "value": "99.99"
+    },
+    {
+      "turn": 550000,
+      "key": "ONCALL_ROTATE",
+      "value": "WEEKLY"
+    },
+    {
+      "turn": 600000,
+      "key": "MONITORING_TOOL",
+      "value": "GRAFANA_OSS"
+    },
+    {
+      "turn": 650000,
+      "key": "LOG_RETENTION",
+      "value": "90_DAYS"
+    },
+    {
+      "turn": 750000,
+      "key": "K8S_NAMESPACE",
+      "value": "MOLTBOT_CORE"
+    },
+    {
+      "turn": 800000,
+      "key": "INGRESS_RULE",
+      "value": "WAF_LEVEL_3"
+    },
+    {
+      "turn": 850000,
+      "key": "REPLICA_COUNT",
+      "value": "3_NODES"
+    },
+    {
+      "turn": 900000,
+      "key": "BACKUP_FREQ",
+      "value": "DAILY_2AM"
+    },
+    {
+      "turn": 910000,
+      "key": "CI_PROVIDER",
+      "value": "GITHUB_ACTIONS"
+    },
+    {
+      "turn": 950000,
+      "key": "ALERT_CHANNEL",
+      "value": "SLACK_NOTIFY"
+    },
+    {
+      "turn": 990000,
+      "key": "PHD_TOPIC",
+      "value": "STATE_CONVERGENCE"
+    }
+  ]
+}
