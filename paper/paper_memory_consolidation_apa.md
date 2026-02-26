@@ -379,8 +379,6 @@ While RGC provides superior discovery, it introduces a dual-stage latency overhe
 
 ## 8. References
 
-Agrawal, A. (2026). *Aether: An open-source personal AI agent with structured state convergence* [Computer software]. GitHub. https://github.com/akashagl92/moltbot
-
 Anthropic. (2026, February 5). *Claude 4.6: Expanding the Frontier of Agentic Reasoning and Long-Context Reliability*. Anthropic News. https://www.anthropic.com/news/claude-opus-4-6
 
 Anthropic. (2026, February 17). *Claude 4.6 Sonnet: High-Performance Agentic Intelligence at Scale*. Anthropic News. https://www.anthropic.com/news/claude-sonnet-4-6
