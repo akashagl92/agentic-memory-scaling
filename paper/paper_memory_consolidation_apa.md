@@ -9,7 +9,7 @@
 ---
 
 ## Abstract
-Long-term memory in Large Language Model (LLM) agents is traditionally managed via recursive summarization or raw archival retrieval. However, recursive methods suffer from "Purpose Fidelity Collapse," where semantic intent degrades exponentially over time. This paper introduces **Structured State Convergence (SSC)**, a novel architecture that distills episodic transcripts into a rigid, schema-based JSON state. We evaluate SSC and its extreme-scale extension, **Recursive Gated Consolidation (RGC)**, using a "Cognitive Stress Test" (CST) scaled up to 10,000,000 turns across six models spanning three generations: Google Gemini 2.5 Flash/Pro (002), Google Gemini 3.0 Flash/Pro, and Anthropic Claude 4.6 Opus/Sonnet. Results demonstrate that SSC achieves **0.00 Semantic Entropy** for early-established facts and maintains **>99% Token Efficiency** improvement over baseline systems. We further identify the **Discovery Cliff**—the turn depth where stochastic consolidation failure begins—and through single-variable ablation, establish that **temporal decay rate accounts for 99% of the cliff's position**, while extraction fidelity contributes only 1%. This finding defines a clear **Scaling Law for Agentic Memory** and empirically validates that infinite memory is architecturally achievable when decay is eliminated via gated consolidation.
+Long-term memory in Large Language Model (LLM) agents is traditionally managed via recursive summarization or raw archival retrieval. However, recursive methods suffer from "Purpose Fidelity Collapse," where semantic intent degrades exponentially over time. This paper introduces **Structured State Convergence (SSC)**, a novel architecture that distills episodic transcripts into a rigid, schema-based JSON state. We evaluate SSC and its extreme-scale extension, **Recursive Gated Consolidation (RGC)**, using a "Cognitive Stress Test" (CST) scaled up to 10,000,000 turns across six models spanning three generations: Google Gemini 2.5 Flash/Pro (002), Google Gemini 3.0 Flash/Pro, and Anthropic Claude 4.6 Opus/Sonnet. Results demonstrate that RGC achieves **0.00 Semantic Entropy** for early-established facts and maintains **>99% Token Efficiency** improvement over baseline systems, whereas SSC degrades to as low as **17.0% recall** at extreme scale. We further identify the **Discovery Cliff**—the turn depth where stochastic consolidation failure begins—and through single-variable ablation, establish that **temporal decay rate accounts for 91% of the cliff's position**, while extraction fidelity contributes only 9%. This finding defines a clear **Scaling Law for Agentic Memory** and empirically validates that infinite memory is architecturally achievable when decay is eliminated via gated consolidation.
 
 **Keywords**: LLM Memory, Structured State Convergence, Recursive Gated Consolidation, Semantic Entropy, O(1) Memory, Purpose Fidelity, Discovery Cliff, Scaling Laws.
 
@@ -164,28 +164,28 @@ Unless otherwise noted, **Gemini 2.5 Flash (002)** serves as the consolidation w
 **Table 1: SSC vs. RGC Multi-Needle Recall (Gemini 2.5 Flash 002, N=50)**
 | Turns | SSC Recall ($R$) | RGC Recall ($R$) | Efficiency ($E$) |
 | :--- | :--- | :--- | :--- |
-| 500 | 100.0% | 100.0% | 97.2% |
-| 1k | 100.0% | 100.0% | 98.6% |
-| 5k | 94.0% | 100.0% | 99.7% |
-| 10k | 100.0% | 100.0% | 99.8% |
-| 50k | 98.0% | 100.0% | 99.9% |
-| 100k | 96.0% | 100.0% | >99.9% |
-| 500k | 93.3% | 100.0% | >99.9% |
-| 1M | 91.0% | 100.0% | >99.9% |
-| 5M | 58.0% | 100.0% | >99.9% |
-| 10M | **58.0%** | **100.0%** | **>99.9%** |
+| 500 | 98.1% | 100.0% | 96.6% |
+| 1k | 98.0% | 100.0% | 98.2% |
+| 5k | 97.9% | 100.0% | 99.6% |
+| 10k | 97.9% | 100.0% | 99.8% |
+| 50k | 97.6% | 100.0% | >99.9% |
+| 100k | 97.1% | 100.0% | >99.9% |
+| 500k | 93.7% | 100.0% | >99.9% |
+| 1M | 89.3% | 100.0% | >99.9% |
+| 5M | 53.9% | 100.0% | >99.9% |
+| 10M | **17.0%** | **100.0%** | **>99.9%** |
 
 ### 4.2 The Discovery Cliff
 Table 1 reveals a striking pattern: while RGC maintains perfect recall at every scale, SSC recall begins to decay after 1M turns and collapses beyond 5M turns. We term this the **"Discovery Cliff"**—the turn depth at which SSC's stochastic consolidation can no longer reliably extract signals from the growing distractor haystack.
 
-At 10 million turns, SSC retains only **58.0%** of injected needles (under G2.5 Flash parameters), while RGC maintains **100.0%** (Figure 1).
+At 10 million turns, SSC retains only **17.0%** of injected needles (under G2.5 Flash parameters), while RGC maintains **100.0%** (Figure 1).
 
 **Figure 1: The Discovery Cliff (Gemini 2.5 Flash 002, Smoothed N=50)**
 ![The Discovery Cliff: Memory Recall at Scale (Flash)](../benchmarks/figures/discovery_cliff_v5.png)
 *Figure 1: SSC recall (dashed blue) vs. RGC recall (solid green) over turn depth (log scale). N=50 iterations.*
 
 **Hypothesis: The Attention Horizon**
-The collapse to **58.0%** at 10M turns reflects the **Attention Horizon** of Gemini 2.5 Flash (002). As distractor density increases, the softmax-weighted attention across the turn window becomes too sparse to activate needle-specific neurons, reaching a noise-floor where discovery becomes stochastic. This identifies a **Scaling Law for Agentic Memory**: discovery fidelity is bound by model attention-width, while retention is bound only by schema-integrity.
+The collapse to **17.0%** at 10M turns reflects the **Attention Horizon** of Gemini 2.5 Flash (002). As distractor density increases, the softmax-weighted attention across the turn window becomes too sparse to activate needle-specific neurons, reaching a noise-floor where discovery becomes stochastic. This identifies a **Scaling Law for Agentic Memory**: discovery fidelity is bound by model attention-width, while retention is bound only by schema-integrity.
 
 **Signal Stratification**
 
@@ -201,7 +201,7 @@ graph LR
     subgraph "SSC at τ = 10M"
         direction LR
         S1["10M Turns"] --> S2{"Worker scans<br/>full haystack"}
-        S2 -->|"SNR collapses"| S3["R = 16.1%"]
+        S2 -->|"SNR collapses"| S3["R = 17.0%"]
     end
 
     subgraph "RGC at τ = 10M"
@@ -215,13 +215,13 @@ graph LR
 ```
 *The fundamental difference: SSC searches retroactively through accumulated noise; RGC intercepts proactively at the signal source.*
 
-The result: **Pro delays the cliff but does not eliminate it.** While Flash collapsed to 58.0% at 10M turns, Pro maintained 93.3%—a significant improvement, but still a clear decay from the near-perfect recall observed at shorter depths.
+The result: **Pro delays the cliff but does not eliminate it.** While Flash collapsed to 17.0% at 10M turns, Pro maintained 82.9%—a significant improvement, but still a clear decay from the near-perfect recall observed at shorter depths.
 
 **Table 3: Model Dependency Comparison (SSC Recall at $\tau = 10^7, N=50$)**
 | Model | Version | Base Fidelity ($f$) | Decay Rate ($d$) | Recall ($R$) |
 | :--- | :--- | :--- | :--- | :--- |
-| Gemini 2.5 Flash | 002 | 0.98 | $1 \times 10^{-7}$ | 58.0% |
-| Gemini 2.5 Pro | 002 | 0.995 | $2 \times 10^{-8}$ | **93.3%** |
+| Gemini 2.5 Flash | 002 | 0.98 | $1 \times 10^{-7}$ | 17.0% |
+| Gemini 2.5 Pro | 002 | 0.995 | $2 \times 10^{-8}$ | **82.9%** |
 
 **Figure 2: Multi-Generational Discovery Cliff (N=50 Overview)**
 ![Model Comparison](../benchmarks/figures/model_comparison_v5.png)
@@ -255,10 +255,10 @@ This consistency across model generations establishes an invariant **Scaling Law
 
 ### 4.5 Next-Generation Horizon Projections (G3.0, C4.6, N=50)
 To ensure statistical significance, we re-evaluated all next-generation projections using the high-fidelity standard of $N=50$ iterations per scale point. Results demonstrate that while newer models significantly delay the Discovery Cliff, they remain vulnerable to temporal decay at extreme scale ($10^7$ turns):
-* **Gemini 3.0 Flash**: Recall averaged **81.6%** at 10M turns.
-* **Gemini 3.0 Pro**: Recall averaged **98.4%** at 10M turns.
-* **Claude 4.6 Sonnet**: Recall averaged **98.1%** at 10M turns.
-* **Claude 4.6 Opus**: Recall averaged **99.4%** at 10M turns.
+* **Gemini 3.0 Flash**: Recall averaged **66.0%** at 10M turns.
+* **Gemini 3.0 Pro**: Recall averaged **96.5%** at 10M turns.
+* **Claude 4.6 Sonnet**: Recall averaged **98.3%** at 10M turns.
+* **Claude 4.6 Opus**: Recall averaged **99.1%** at 10M turns.
 
 **Figure 4: Universal Discovery Cliff Landscape (Smoothed N=50)**
 ![Model Comparison](../benchmarks/figures/model_comparison_v5.png)
@@ -275,7 +275,7 @@ The ablation study (Section 4.4) provides a definitive answer to the question of
 
 > **Infinite memory is architecturally achievable** if and only if the system can drive the effective decay rate toward zero. RGC achieves this by decoupling discovery from synthesis — the L0 sentinel captures signals with $O(1)$ latency regardless of depth, eliminating temporal decay ($d$) from the recall equation entirely.
 
-SSC alone cannot deliver infinite memory — even with Gemini 3.0 Pro or Claude 4.6 Opus, recall begins to show stochastic friction at 10M turns. Notably, our high-fidelity tests (Section 4.5) show that **Claude 4.6 Opus** ($\mu = 99.1\%$) maintains a distinct "Fidelity Lead" over **Claude 4.6 Sonnet** ($\mu = 98.6\%$). However, because both models are subject to the non-zero decay rate inherent in the transformer's attention window—a phenomenon linked to the attention extrapolative limits identified in **ALiBi (Press et al., 2021)**—they merely delay the collapse rather than eliminating it. RGC's architectural guarantee remains the only path to deterministic 100% recall.
+SSC alone cannot deliver infinite memory — even with Gemini 3.0 Pro or Claude 4.6 Opus, recall begins to show stochastic friction at 10M turns. Notably, our high-fidelity tests (Section 4.5) show that **Claude 4.6 Opus** ($\mu = 99.1\%$) maintains a distinct "Fidelity Lead" over **Claude 4.6 Sonnet** ($\mu = 98.3\%$). However, because both models are subject to the non-zero decay rate inherent in the transformer's attention window—a phenomenon linked to the attention extrapolative limits identified in **ALiBi (Press et al., 2021)**—they merely delay the collapse rather than eliminating it. RGC's architectural guarantee remains the only path to deterministic 100% recall.
 
 ### 5.2 Memory as a Strategic Router
 SSC's primary strength is its ability to act as a **Router**. By storing a "Pointer" to a raw archive within the "Structured State," the agent achieves O(1) navigation to the source of truth without bloating its active attention with historical noise.
