@@ -1,0 +1,20 @@
+[
+  {
+    "success": true,
+    "latency": 1.114135980606079,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "warm"
+  },
+  {
+    "success": true,
+    "latency": 1.1753530502319336,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "warm"
+  }
+]

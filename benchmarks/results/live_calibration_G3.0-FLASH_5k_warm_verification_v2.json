@@ -1,0 +1,47 @@
+[
+  {
+    "success": true,
+    "latency": 1.3225243091583252,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "warm"
+  },
+  {
+    "success": true,
+    "latency": 1.5424511432647705,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "warm"
+  },
+  {
+    "success": true,
+    "latency": 1.4658730030059814,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "warm"
+  },
+  {
+    "success": true,
+    "latency": 1.3579599857330322,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "warm"
+  },
+  {
+    "success": true,
+    "latency": 1.418328046798706,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "warm"
+  }
+]

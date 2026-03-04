@@ -5,13 +5,13 @@
       "recall": true
     },
     "consolidation": {
-      "recall_rate": 100.0
+      "recall_rate": 98.0500000000003
     },
     "rgc": {
       "recall_rate": 100.0,
       "entropy": 0.0
     },
-    "efficiency": 97.2,
+    "efficiency": 96.6,
     "parameters": {
       "fidelity": 0.98,
       "decay": 1e-7,
@@ -24,13 +24,13 @@
       "recall": true
     },
     "consolidation": {
-      "recall_rate": 100.0
+      "recall_rate": 98.02631578947366
     },
     "rgc": {
       "recall_rate": 100.0,
       "entropy": 0.0
     },
-    "efficiency": 98.6,
+    "efficiency": 98.1888888888889,
     "parameters": {
       "fidelity": 0.98,
       "decay": 1e-7,
@@ -43,13 +43,13 @@
       "recall": true
     },
     "consolidation": {
-      "recall_rate": 97.8
+      "recall_rate": 97.91818181818132
     },
     "rgc": {
       "recall_rate": 100.0,
       "entropy": 0.0
     },
-    "efficiency": 99.71777777777778,
+    "efficiency": 99.57555555555555,
     "parameters": {
       "fidelity": 0.98,
       "decay": 1e-7,
@@ -62,13 +62,13 @@
       "recall": true
     },
     "consolidation": {
-      "recall_rate": 97.3
+      "recall_rate": 97.9243243243243
     },
     "rgc": {
       "recall_rate": 100.0,
       "entropy": 0.0
     },
-    "efficiency": 99.85888888888888,
+    "efficiency": 99.77888888888889,
     "parameters": {
       "fidelity": 0.98,
       "decay": 1e-7,
@@ -81,13 +81,13 @@
       "recall": true
     },
     "consolidation": {
-      "recall_rate": 97.4
+      "recall_rate": 97.58297872340331
     },
     "rgc": {
       "recall_rate": 100.0,
       "entropy": 0.0
     },
-    "efficiency": 99.97177777777779,
+    "efficiency": 99.95133333333334,
     "parameters": {
       "fidelity": 0.98,
       "decay": 1e-7,
@@ -100,13 +100,13 @@
       "recall": true
     },
     "consolidation": {
-      "recall_rate": 96.55
+      "recall_rate": 97.05576923076826
     },
     "rgc": {
       "recall_rate": 100.0,
       "entropy": 0.0
     },
-    "efficiency": 99.98566666666666,
+    "efficiency": 99.97455555555555,
     "parameters": {
       "fidelity": 0.98,
       "decay": 1e-7,
@@ -119,13 +119,13 @@
       "recall": true
     },
     "consolidation": {
-      "recall_rate": 93.76666666666688
+      "recall_rate": 93.73030303030178
     },
     "rgc": {
       "recall_rate": 100.0,
       "entropy": 0.0
     },
-    "efficiency": 99.99708888888888,
+    "efficiency": 99.99428888888889,
     "parameters": {
       "fidelity": 0.98,
       "decay": 1e-7,
@@ -138,13 +138,13 @@
       "recall": true
     },
     "consolidation": {
-      "recall_rate": 90.225
+      "recall_rate": 89.25142857142868
     },
     "rgc": {
       "recall_rate": 100.0,
       "entropy": 0.0
     },
-    "efficiency": 99.99852222222222,
+    "efficiency": 99.99705555555556,
     "parameters": {
       "fidelity": 0.98,
       "decay": 1e-7,
@@ -157,13 +157,13 @@
       "recall": true
     },
     "consolidation": {
-      "recall_rate": 62.65
+      "recall_rate": 53.86744186046497
     },
     "rgc": {
       "recall_rate": 100.0,
       "entropy": 0.0
     },
-    "efficiency": 99.99968666666666,
+    "efficiency": 99.99934,
     "parameters": {
       "fidelity": 0.98,
       "decay": 1e-7,
@@ -176,13 +176,13 @@
       "recall": false
     },
     "consolidation": {
-      "recall_rate": 58.21363636363641
+      "recall_rate": 17.000990099009922
     },
     "rgc": {
       "recall_rate": 100.0,
       "entropy": 0.0
     },
-    "efficiency": 99.99981222222222,
+    "efficiency": 99.99963666666667,
     "parameters": {
       "fidelity": 0.98,
       "decay": 1e-7,

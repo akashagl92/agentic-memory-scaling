@@ -1,0 +1,182 @@
+[
+  {
+    "success": true,
+    "latency": 1.728954792022705,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000,
+    "mode": "warm"
+  },
+  {
+    "success": true,
+    "latency": 1.8240158557891846,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000,
+    "mode": "warm"
+  },
+  {
+    "success": true,
+    "latency": 2.611589193344116,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000,
+    "mode": "warm"
+  },
+  {
+    "success": true,
+    "latency": 2.016611099243164,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000,
+    "mode": "warm"
+  },
+  {
+    "success": true,
+    "latency": 2.715471029281616,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "cold"
+  },
+  {
+    "success": true,
+    "latency": 1.9228298664093018,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "cold"
+  },
+  {
+    "success": true,
+    "latency": 1.6889431476593018,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "cold"
+  },
+  {
+    "success": true,
+    "latency": 1.319809913635254,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "cold"
+  },
+  {
+    "success": true,
+    "latency": 1.4921128749847412,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "cold"
+  },
+  {
+    "success": true,
+    "latency": 3.9595539569854736,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000,
+    "mode": "cold"
+  },
+  {
+    "success": true,
+    "latency": 2.522922992706299,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000,
+    "mode": "cold"
+  },
+  {
+    "success": true,
+    "latency": 3.8560791015625,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000,
+    "mode": "cold"
+  },
+  {
+    "success": true,
+    "latency": 2.3351259231567383,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000,
+    "mode": "cold"
+  },
+  {
+    "success": true,
+    "latency": 1.7171671390533447,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000,
+    "mode": "cold"
+  },
+  {
+    "success": true,
+    "latency": 3.37752103805542,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "warm"
+  },
+  {
+    "success": true,
+    "latency": 3.9071590900421143,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "warm"
+  },
+  {
+    "success": true,
+    "latency": 21.626501083374023,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "warm"
+  },
+  {
+    "success": true,
+    "latency": 57.75081491470337,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "warm"
+  },
+  {
+    "success": true,
+    "latency": 2.19520902633667,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000,
+    "mode": "warm"
+  },
+  {
+    "success": true,
+    "latency": 2.359917,
+    "depth": 0.5,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "warm"
+  }
+]

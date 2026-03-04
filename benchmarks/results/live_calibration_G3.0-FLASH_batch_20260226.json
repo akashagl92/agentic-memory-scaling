@@ -1,0 +1,242 @@
+[
+  {
+    "success": true,
+    "latency": 7.442862033843994,
+    "depth": 0.486484166643678,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000
+  },
+  {
+    "success": true,
+    "latency": 29.514991760253906,
+    "depth": 0.12094270260611523,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000
+  },
+  {
+    "success": true,
+    "latency": 3.171706199645996,
+    "depth": 0.2703515312472405,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000
+  },
+  {
+    "success": true,
+    "latency": 3.9570868015289307,
+    "depth": 0.2425852391827742,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000
+  },
+  {
+    "success": true,
+    "latency": 4.568260908126831,
+    "depth": 0.5419378781630649,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000
+  },
+  {
+    "success": true,
+    "latency": 4.392495155334473,
+    "depth": 0.45045158089218973,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000
+  },
+  {
+    "success": true,
+    "latency": 23.258142948150635,
+    "depth": 0.6405377771778787,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000
+  },
+  {
+    "success": true,
+    "latency": 18.852965831756592,
+    "depth": 0.35366865930803415,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000
+  },
+  {
+    "success": true,
+    "latency": 4.439116954803467,
+    "depth": 0.5897010477848532,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000
+  },
+  {
+    "success": true,
+    "latency": 3.386599063873291,
+    "depth": 0.5146566057056895,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000
+  },
+  {
+    "success": true,
+    "latency": 31.587841033935547,
+    "depth": 0.5205567308028382,
+    "status": 200,
+    "turns": 2000,
+    "tokens": 50000
+  },
+  {
+    "success": true,
+    "latency": 5.110748052597046,
+    "depth": 0.10036752747133636,
+    "status": 200,
+    "turns": 2000,
+    "tokens": 50000
+  },
+  {
+    "success": true,
+    "latency": 3.1935088634490967,
+    "depth": 0.7874572409127659,
+    "status": 200,
+    "turns": 2000,
+    "tokens": 50000
+  },
+  {
+    "success": true,
+    "latency": 19.694123029708862,
+    "depth": 0.21188423976466347,
+    "status": 200,
+    "turns": 2000,
+    "tokens": 50000
+  },
+  {
+    "success": true,
+    "latency": 2.3593878746032715,
+    "depth": 0.11946012206205943,
+    "status": 200,
+    "turns": 2000,
+    "tokens": 50000
+  },
+  {
+    "success": true,
+    "latency": 3.5026350021362305,
+    "depth": 0.38869024443501277,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000
+  },
+  {
+    "success": true,
+    "latency": 2.91806697845459,
+    "depth": 0.6458062850041871,
+    "status": 200,
+    "turns": 2000,
+    "tokens": 50000
+  },
+  {
+    "success": true,
+    "latency": 4.731491804122925,
+    "depth": 0.21790965969325413,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000
+  },
+  {
+    "success": true,
+    "latency": 2.775367259979248,
+    "depth": 0.7887131965336615,
+    "status": 200,
+    "turns": 2000,
+    "tokens": 50000
+  },
+  {
+    "success": true,
+    "latency": 3.4506301879882812,
+    "depth": 0.47823618263324075,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000
+  },
+  {
+    "success": true,
+    "latency": 3.484441041946411,
+    "depth": 0.30688575204289875,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000
+  },
+  {
+    "success": true,
+    "latency": 7.2789530754089355,
+    "depth": 0.8634421012732312,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000
+  },
+  {
+    "success": true,
+    "latency": 3.6320607662200928,
+    "depth": 0.2640127719796669,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000
+  },
+  {
+    "success": true,
+    "latency": 2.138967990875244,
+    "depth": 0.49626705541170535,
+    "status": 200,
+    "turns": 2000,
+    "tokens": 50000
+  },
+  {
+    "success": true,
+    "latency": 5.0623157024383545,
+    "depth": 0.4845097719224615,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000
+  },
+  {
+    "success": true,
+    "latency": 3.453385829925537,
+    "depth": 0.4447095297634176,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000
+  },
+  {
+    "success": true,
+    "latency": 32.04613018035889,
+    "depth": 0.4827397341991425,
+    "status": 200,
+    "turns": 2000,
+    "tokens": 50000
+  },
+  {
+    "success": true,
+    "latency": 26.304317951202393,
+    "depth": 0.19658185901704536,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000
+  },
+  {
+    "success": true,
+    "latency": 3.121513843536377,
+    "depth": 0.3595900946401229,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000
+  },
+  {
+    "success": true,
+    "latency": 2.75978684425354,
+    "depth": 0.7324866327690753,
+    "status": 200,
+    "turns": 2000,
+    "tokens": 50000
+  }
+]
