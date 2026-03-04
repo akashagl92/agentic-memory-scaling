@@ -261,6 +261,7 @@ Using Gemini 2.5 Flash as the baseline, we isolated each parameter by upgrading 
 
 **Figure 3a: Classic Ablation Study (G2.5 Series, Smoothed N=50)**
 ![Classic Ablation](../benchmarks/figures/ablation_fidelity_vs_decay_v1.png)
+*Figure 3a: Isolation of base fidelity (F) vs. temporal decay (d) in the G2.5 series. Decay accounts for 91% of the lift between tiers.*
 
 #### 4.4.2 Next-Gen Validation (G3.0 vs. C4.6)
 We replicated this study using the 2026-era baseline (Gemini 3.0 Flash) and isolating improvements toward the SOTA ceiling (Claude 4.6 Opus).
@@ -270,6 +271,7 @@ We replicated this study using the 2026-era baseline (Gemini 3.0 Flash) and isol
 
 **Figure 3b: Next-Gen Ablation Study (G3.0 vs. C4.6 Series, Smoothed N=50)**
 ![Next-Gen Ablation](../benchmarks/figures/ablation_fidelity_vs_decay_v2.png)
+*Figure 3b: Next-generation ablation study (G3.0 vs. C4.6). Results confirm that temporal decay remains the primary scaling bottleneck at the SOTA ceiling.*
 
 This consistency across model generations establishes an invariant **Scaling Law for Agentic Memory**: The position of the Discovery Cliff is determined by **attention horizon stability**, not by architectural extraction precision.
 
@@ -443,6 +445,6 @@ Wei, J., Wang, X., Schuurmans, D., Bosma, M., Ichter, B., Xia, F., Chi, E. H., L
 | :--- | :--- | :--- |
 | Figure 1 | [discovery_cliff_v5.png](../benchmarks/figures/discovery_cliff_v5.png) | SSC vs RGC recall (Flash 002) |
 | Figure 2 | [model_comparison_v5.png](../benchmarks/figures/model_comparison_v5.png) | SSC recall: Multi-Generational |
-| Figure 3a | [ablation_v1.png](../benchmarks/figures/ablation_fidelity_vs_decay_v1.png) | Classic Ablation (G2.5) |
-| Figure 3b | [ablation_v2.png](../benchmarks/figures/ablation_fidelity_vs_decay_v2.png) | Next-Gen Ablation (3.0/4.6) |
+| Figure 3a | [ablation_fidelity_vs_decay_v1.png](../benchmarks/figures/ablation_fidelity_vs_decay_v1.png) | Classic Ablation (G2.5) |
+| Figure 3b | [ablation_fidelity_vs_decay_v2.png](../benchmarks/figures/ablation_fidelity_vs_decay_v2.png) | Next-Gen Ablation (3.0/4.6) |
 | Figure 4 | [model_comparison_v5.png](../benchmarks/figures/model_comparison_v5.png) | Universal Scaling Landscape |

@@ -14,7 +14,7 @@
     "efficiency": 97.2,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1e-9,
+      "decay": 1e-09,
       "iterations": 50
     }
   },
@@ -33,7 +33,7 @@
     "efficiency": 98.6,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1e-9,
+      "decay": 1e-09,
       "iterations": 50
     }
   },
@@ -52,7 +52,7 @@
     "efficiency": 99.71777777777778,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1e-9,
+      "decay": 1e-09,
       "iterations": 50
     }
   },
@@ -62,7 +62,7 @@
       "recall": true
     },
     "consolidation": {
-      "recall_rate": 100.0
+      "recall_rate": 98.0
     },
     "rgc": {
       "recall_rate": 100.0,
@@ -71,7 +71,7 @@
     "efficiency": 99.85888888888888,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1e-9,
+      "decay": 1e-09,
       "iterations": 50
     }
   },
@@ -90,7 +90,7 @@
     "efficiency": 99.97177777777779,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1e-9,
+      "decay": 1e-09,
       "iterations": 50
     }
   },
@@ -109,7 +109,7 @@
     "efficiency": 99.98566666666666,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1e-9,
+      "decay": 1e-09,
       "iterations": 50
     }
   },
@@ -128,7 +128,7 @@
     "efficiency": 99.99708888888888,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1e-9,
+      "decay": 1e-09,
       "iterations": 50
     }
   },
@@ -138,7 +138,7 @@
       "recall": true
     },
     "consolidation": {
-      "recall_rate": 99.5
+      "recall_rate": 98.0
     },
     "rgc": {
       "recall_rate": 100.0,
@@ -147,7 +147,7 @@
     "efficiency": 99.99852222222222,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1e-9,
+      "decay": 1e-09,
       "iterations": 50
     }
   },
@@ -157,7 +157,7 @@
       "recall": true
     },
     "consolidation": {
-      "recall_rate": 99.5
+      "recall_rate": 98.75
     },
     "rgc": {
       "recall_rate": 100.0,
@@ -166,7 +166,7 @@
     "efficiency": 99.99968666666666,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1e-9,
+      "decay": 1e-09,
       "iterations": 50
     }
   },
@@ -176,7 +176,7 @@
       "recall": false
     },
     "consolidation": {
-      "recall_rate": 98.54545454545455
+      "recall_rate": 98.09090909090908
     },
     "rgc": {
       "recall_rate": 100.0,
@@ -185,7 +185,7 @@
     "efficiency": 99.99981222222222,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1e-9,
+      "decay": 1e-09,
       "iterations": 50
     }
   }
