@@ -1,0 +1,134 @@
+[
+  {
+    "success": true,
+    "latency": 1.2387440204620361,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "warm",
+    "model": "gemini-3.1-flash-lite-preview",
+    "timestamp": 1772714999.406558,
+    "key_index": 0
+  },
+  {
+    "success": true,
+    "latency": 1.072500228881836,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "warm",
+    "model": "gemini-3.1-flash-lite-preview",
+    "timestamp": 1772715010.485455,
+    "key_index": 0
+  },
+  {
+    "success": true,
+    "latency": 0.9361379146575928,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "warm",
+    "model": "gemini-3.1-flash-lite-preview",
+    "timestamp": 1772715021.423131,
+    "key_index": 0
+  },
+  {
+    "success": true,
+    "latency": 1.4343161582946777,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000,
+    "mode": "warm",
+    "model": "gemini-3.1-flash-lite-preview",
+    "timestamp": 1772715032.860886,
+    "key_index": 0
+  },
+  {
+    "success": true,
+    "latency": 1.3036410808563232,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000,
+    "mode": "warm",
+    "model": "gemini-3.1-flash-lite-preview",
+    "timestamp": 1772715044.17061,
+    "key_index": 0
+  },
+  {
+    "success": true,
+    "latency": 1.1805686950683594,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000,
+    "mode": "warm",
+    "model": "gemini-3.1-flash-lite-preview",
+    "timestamp": 1772715055.3560162,
+    "key_index": 0
+  },
+  {
+    "success": true,
+    "latency": 10.020211219787598,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "cold",
+    "model": "gemini-3.1-flash-lite-preview",
+    "timestamp": 1772715085.386066,
+    "key_index": 0
+  },
+  {
+    "success": true,
+    "latency": 0.968919038772583,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "cold",
+    "model": "gemini-3.1-flash-lite-preview",
+    "timestamp": 1772715106.3611991,
+    "key_index": 0
+  },
+  {
+    "success": true,
+    "latency": 7.0089170932769775,
+    "status": 200,
+    "turns": 5000,
+    "tokens": 125000,
+    "mode": "cold",
+    "model": "gemini-3.1-flash-lite-preview",
+    "timestamp": 1772715133.376574,
+    "key_index": 0
+  },
+  {
+    "success": true,
+    "latency": 2.687114953994751,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000,
+    "mode": "cold",
+    "model": "gemini-3.1-flash-lite-preview",
+    "timestamp": 1772715156.069636,
+    "key_index": 0
+  },
+  {
+    "success": true,
+    "latency": 1.7478199005126953,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000,
+    "mode": "cold",
+    "model": "gemini-3.1-flash-lite-preview",
+    "timestamp": 1772715177.8237078,
+    "key_index": 0
+  },
+  {
+    "success": true,
+    "latency": 4.550864934921265,
+    "status": 200,
+    "turns": 10000,
+    "tokens": 250000,
+    "mode": "cold",
+    "model": "gemini-3.1-flash-lite-preview",
+    "timestamp": 1772715202.380578,
+    "key_index": 0
+  }
+]
