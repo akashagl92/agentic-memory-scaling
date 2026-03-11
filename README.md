@@ -11,9 +11,9 @@
 
 This repository contains the research paper, benchmark data, and reproducibility harness for **"Structured State Convergence and the Discovery Cliff: O(1) Memory Scaling for LLM Agents at $10^7$ Turns."**
 
-We identify a fundamental scaling limit—the **Discovery Cliff**—where standard single-stage memory consolidation (SSC) fails to extract new signals from long conversation histories. Using the constants derived from Live API runs (Tier 1), we perform $10^7$-turn Monte Carlo simulations $(N=1000)$ across multiple model generations (Google Gemini 2.5/3.0/3.1, Anthropic Claude 4.6). Results demonstrate that **temporal decay accounts for up to 99% of the recall collapse** in next-generation models, establishing an invariant Scaling Law for Agentic Memory. At extreme scale ($10^7$ turns), SSC recall degrades to **17.0%**.
+We identify a fundamental scaling limit—the **Discovery Cliff**—where standard single-stage memory consolidation (SSC) fails to extract new signals from long conversation histories. Using the constants derived from Live API runs (Tier 1), we perform $10^7$-turn Monte Carlo simulations $(N=1000)$ across multiple model generations (Google Gemini 2.5/3.0/3.1, Anthropic Claude 4.6). Results demonstrate that **temporal decay accounts for up to 99% of the recall collapse** in next-generation models, establishing an invariant Scaling Law for Agentic Memory. At extreme scale ($10^7$ turns), SSC recall degrades to **16.8%**.
 
-We evaluate **Recursive Gated Consolidation (RGC)**, a two-stage architecture that eliminates this decay and maintains **100% signal recall at scale** by decoupling discovery from history depth.
+We evaluate **Recursive Gated Consolidation (RGC)**, a two-stage architecture that eliminates this decay and maintains **100% signal recall at scale** by decoupling discovery from history depth. This repository contains the RGC Benchmark Suite, empirical calibration scripts, and the formal publication detailing these findings.
 
 ## Key Findings
 
