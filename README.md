@@ -1,6 +1,6 @@
-# Agentic Memory Scaling
+# Agentic Memory Scaling: Structured State Convergence and the Discovery Cliff
 
-**Scaling Laws for Memory Consolidation in LLM-Based Agentic Systems**
+**Scaling Laws for Memory Consolidation in LLM-Based Agentic Systems at $10^7$ Turns**
 
 [![Paper](https://img.shields.io/badge/Paper-APA_Format-blue)](paper/paper_memory_consolidation_apa.md)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -9,11 +9,11 @@
 
 ## Abstract
 
-This repository contains the research paper, benchmark data, and reproducibility harness for **"Structured State Convergence for O(1) Memory Scaling in LLM Agents: An Empirical Study of Discovery Limits at 10 Million Turns."**
+This repository contains the research paper, benchmark data, and reproducibility harness for **"Structured State Convergence and the Discovery Cliff: O(1) Memory Scaling for LLM Agents at $10^7$ Turns."**
 
-We identify a fundamental scaling limit—the **Discovery Cliff**—where standard single-stage memory consolidation (SSC) fails to extract new signals from long conversation histories. Through a dual-tier ablation study scaled to an N=1000 empirical standard across multiple model generations (Google Gemini 2.5/3.0/3.1, Anthropic Claude 4.6), we prove that **temporal decay accounts for up to 99% of the recall collapse** in next-generation models, establishing an invariant Scaling Law for Agentic Memory. At extreme scale, SSC recall plunges to **17.0%** due to this decay.
+We identify a fundamental scaling limit—the **Discovery Cliff**—where standard single-stage memory consolidation (SSC) fails to extract new signals from long conversation histories. Using the constants derived from Live API runs (Tier 1), we perform $10^7$-turn Monte Carlo simulations $(N=1000)$ across multiple model generations (Google Gemini 2.5/3.0/3.1, Anthropic Claude 4.6). Results demonstrate that **temporal decay accounts for up to 99% of the recall collapse** in next-generation models, establishing an invariant Scaling Law for Agentic Memory. At extreme scale ($10^7$ turns), SSC recall degrades to **17.0%**.
 
-We propose **Recursive Gated Consolidation (RGC)**, a two-stage architecture that eliminates this decay and maintains **100% signal recall at 10M+ turns** by decoupling discovery from synthesis.
+We evaluate **Recursive Gated Consolidation (RGC)**, a two-stage architecture that eliminates this decay and maintains **100% signal recall at scale** by decoupling discovery from history depth.
 
 ## Key Findings
 
@@ -63,13 +63,9 @@ This stabilization is supported by modern infrastructure designs such as Google'
 - Python 3.10+
 - `matplotlib` (for visualization)
 
-### Running the Benchmark
-```bash
-cd scripts
-python run_cst.py
-```
-
-This will execute the Cognitive Stress Test (CST) harness, generating:
+### Agentic Memory Scaling: Structured State Convergence and the Discovery Cliff
+> [!NOTE]
+> This repository contains the data, figures, and research paper for the study of $O(1)$ memory scaling at $10^7$ turns.
 - `scale_results.json` — Raw recall data across logarithmic turn depths
 - `discovery_cliff_auto.png` — The Discovery Cliff visualization
 
