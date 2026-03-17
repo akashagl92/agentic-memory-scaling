@@ -14,7 +14,7 @@
     "efficiency": 96.46666666666667,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1.6e-08,
+      "decay": 1.6e-8,
       "iterations": 1000
     }
   },
@@ -33,7 +33,7 @@
     "efficiency": 98.1888888888889,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1.6e-08,
+      "decay": 1.6e-8,
       "iterations": 1000
     }
   },
@@ -52,7 +52,7 @@
     "efficiency": 99.58,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1.6e-08,
+      "decay": 1.6e-8,
       "iterations": 1000
     }
   },
@@ -71,7 +71,7 @@
     "efficiency": 99.78111111111112,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1.6e-08,
+      "decay": 1.6e-8,
       "iterations": 1000
     }
   },
@@ -90,7 +90,7 @@
     "efficiency": 99.95177777777778,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1.6e-08,
+      "decay": 1.6e-8,
       "iterations": 1000
     }
   },
@@ -109,7 +109,7 @@
     "efficiency": 99.97477777777777,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1.6e-08,
+      "decay": 1.6e-8,
       "iterations": 1000
     }
   },
@@ -128,7 +128,7 @@
     "efficiency": 99.99446666666667,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1.6e-08,
+      "decay": 1.6e-8,
       "iterations": 1000
     }
   },
@@ -147,7 +147,7 @@
     "efficiency": 99.99703333333333,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1.6e-08,
+      "decay": 1.6e-8,
       "iterations": 1000
     }
   },
@@ -166,7 +166,7 @@
     "efficiency": 99.99935777777777,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1.6e-08,
+      "decay": 1.6e-8,
       "iterations": 1000
     }
   },
@@ -185,7 +185,7 @@
     "efficiency": 99.99963666666667,
     "parameters": {
       "fidelity": 0.99,
-      "decay": 1.6e-08,
+      "decay": 1.6e-8,
       "iterations": 1000
     }
   }

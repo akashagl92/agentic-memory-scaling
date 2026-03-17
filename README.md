@@ -17,14 +17,14 @@ We evaluate **Recursive Gated Consolidation (RGC)**, a two-stage architecture th
 
 ## Key Findings
 
-| Finding | Detail |
-| :--- | :--- |
-| **The Discovery Cliff** | SSC recall collapses to **17.0%** at 10M turns (Flash) |
+| Finding                      | Detail                                                         |
+| :--------------------------- | :------------------------------------------------------------- |
+| **The Discovery Cliff**      | SSC recall collapses to **17.0%** at 10M turns (Flash)         |
 | **Temporal Decay Dominance** | Decay rate ($d$) accounts for up to **99%** of recall collapse |
-| **RGC Performance** | Maintains **100% recall** at 10M+ turns |
-| **Inverted Latency Law** | Latency stabilizes/drops as context grows (Gemini 3.0) |
-| **Hardware Grounding** | Validated via TPU v4 OCS and SparseCore optimizations |
-| **Cross-System Validation** | Validated in chatbot (Moltbot) and IDE (Antigravity) |
+| **RGC Performance**          | Maintains **100% recall** at 10M+ turns                        |
+| **Inverted Latency Law**     | Latency stabilizes/drops as context grows (Gemini 3.0)         |
+| **Hardware Grounding**       | Validated via TPU v4 OCS and SparseCore optimizations          |
+| **Cross-System Validation**  | Validated in chatbot (Moltbot) and IDE (Antigravity)           |
 
 ## Repository Structure
 
@@ -60,12 +60,15 @@ This stabilization is supported by modern infrastructure designs such as Google'
 ## Reproducing Results
 
 ### Prerequisites
+
 - Python 3.10+
 - `matplotlib` (for visualization)
 
 ### Agentic Memory Scaling: Structured State Convergence and the Discovery Cliff
+
 > [!NOTE]
 > This repository contains the data, figures, and research paper for the study of $O(1)$ memory scaling at $10^7$ turns.
+
 - `scale_results.json` — Raw recall data across logarithmic turn depths
 - `discovery_cliff_auto.png` — The Discovery Cliff visualization
 
