@@ -10,7 +10,7 @@
 
 Long-term memory in Large Language Model (LLM) agents is traditionally managed via recursive summarization or context-window truncation. However, recursive methods exhibit "Purpose Fidelity Collapse," where semantic stability degrades as a function of turn depth. This study evaluates **Structured State Convergence (SSC)**, an architecture that distills episodic transcripts into a schema-defined state $S_\tau$. We compare SSC with **Recursive Gated Consolidation (RGC)** using a "Cognitive Stress Test" (CST) scaled to $10^7$ turns across six model generations. Empirical evaluations $(N=1000)$ reveal that while SSC maintains high recall in short-horizon contexts, it exhibits a **Discovery Cliff** where recall collapses to 16.8% at extreme scale. In contrast, RGC maintains zero semantic entropy and $>99\%$ token efficiency by decoupling discovery from history depth. Our results suggest a scaling law for agentic memory that links temporal decay to the position of what we term the **Discovery Cliff**, **empirically demonstrating** that stable agentic memory is achievable through gated consolidation.
 
-### 1.2 Terminology and Definitions
+### 1.1 Terminology and Definitions
 
 In this study, we introduce and define several key concepts:
 
@@ -27,15 +27,15 @@ In this study, we introduce and define several key concepts:
 
 As LLM-based agents are deployed in production environments spanning months or years of interaction, a fundamental question emerges: _can an agent remember everything it has ever learned?_ The challenge of "Identity Amnesia" stems from the finite context window of transformer architectures (Vaswani et al., 2017). Current SOTA solutions rely on recursive summarization— the "Telephone Game"—which leads to **Semantic Drift** (Liu et al., 2024).
 
-### 1.1 Problem Statement
+### 1.2 Problem Statement
 
 Recursive summarization preserves tokens but destroys intent. As memory is compressed iteratively, the "Lossy Core" of the agent's identity becomes "fuzzy," leading to failure in strategic reasoning even when factual fragments remain accessible.
 
-### 1.2 Proposed Solution
+### 1.3 Proposed Solution
 
 We evaluate **Structured State Convergence (SSC)**: a pattern where memory is treated as a **Convergent Data Structure**. Each turn $x_\tau$ is processed by a consolidation operator $\Omega$ that extracts factual signals into a structured state $S_\tau$. By ensuring that primary agentic identity is complexity-fixed ($O(1)$) during retrieval, SSC aims to preserve purpose fidelity over long durations. This study provides an empirical evaluation of SSC at a $10^7$ turn scale, identifying the transition from stable convergence to stochastic failure.
 
-### 1.3 Research Hypotheses
+### 1.4 Research Hypotheses
 
 To evaluate the scaling limits of agentic memory, we test the following four hypotheses:
 
@@ -218,7 +218,7 @@ _\*A Note on Simulation Boundaries_: Results for $\tau \geq 10^5$ turns are deri
 **Documentation Alignment**:
 Our Tier 1 results align with Google's official **Implicit Caching** documentation, which specifies a 1,024-token minimum for Gemini 2.5 Flash to activate cache-hits (Google, 2025; [Official Caching Docs](https://cloud.google.com/vertex-ai/generative-ai/docs/context-cache/context-cache-overview)). Furthermore, the observed 60-second "Cold Start" spikes align with official technical notes stating that context caching "currently primarily reduces costs rather than latency" (Google Cloud, 2026), suggesting that cache-hit billing occurs before hardware-tier re-provisioning is complete.
 
-### 3.4 Data Verification Tiers and Calibration
+### 3.9 Data Verification Tiers and Calibration
 
 To maintain scientific integrity across model generations with differing API availability and benchmarking costs, we categorize our data into three **Verification Tiers**:
 
@@ -420,11 +420,11 @@ The ablation study (Section 4.3) provides a definitive answer to the question of
 
 SSC alone cannot deliver infinite memory — even with Gemini 3.0 Pro or Claude 4.6 Opus, recall begins to show stochastic friction at 10M turns. Notably, our high-fidelity tests (Section 4.4) show that while larger context models delay the collapse, they remain subject to the infrastructure oscillations discovered in Section 4.5. The **Efficiency Reward** of the 10,000-turn specialized tier remains the primary architectural incentive for proactive consolidation.
 
-### 5.3 Memory as a Strategic Router
+### 5.4 Memory as a Strategic Router
 
 SSC's primary strength is its ability to act as a **Router**. By storing a "Pointer" to a raw archive within the "Structured State," the agent achieves O(1) navigation to the source of truth without bloating its active attention with historical noise.
 
-### 5.4 Cross-System Applicability
+### 5.5 Cross-System Applicability
 
 The SSC/RGC protocol is readily applicable to:
 
