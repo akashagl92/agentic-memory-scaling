@@ -319,7 +319,7 @@ The result: **Pro delays the cliff but does not eliminate it.** While Flash coll
 | Gemini 3.0 Pro | Early | Sim (T3) | 0.990 | $1.6 \times 10^{-8}$ | 83.3% |
 | Claude 4.6 Opus | Feb 05 | Sim (T3) | 0.9995| $1.0 \times 10^{-9}$ | 98.9% |
 
-**Note on Tier 2 Calibration**: As noted in Section 3.8, Claude 4.6 and Gemini 3.0 results are **System-Card-Calibrated Projections (SCCP)**. While these represent our highest-confidence mapping of official external benchmarks to our probability model, Tier 1 live-API verification is scheduled as a high-priority follow-up.
+**Note on Tier 2 Calibration**: As noted in Section 3.9, Claude 4.6 and Gemini 3.0 results are **System-Card-Calibrated Projections (SCCP)**. While these represent our highest-confidence mapping of official external benchmarks to our probability model, Tier 1 live-API verification is scheduled as a high-priority follow-up.
 
 **Figure 2: Multi-Generational Discovery Cliff (N=1000 Overview)**
 ![Model Comparison](../benchmarks/figures/model_comparison_v6_final.png)
