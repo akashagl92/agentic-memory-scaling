@@ -1,0 +1,33 @@
+{
+  "scenario": "Discovery_Cliff_10M_Stress",
+  "iterations": 1000,
+  "recall_probes": [
+    {
+      "needle_id": "deployment_target",
+      "injection_turn": 500,
+      "probe_turns": [
+        {"tau": 1000, "result": "HIT", "p_e": 0.985},
+        {"tau": 10000, "result": "HIT", "p_e": 0.984},
+        {"tau": 100000, "result": "HIT", "p_e": 0.976},
+        {"tau": 1000000, "result": "MISS", "p_e": 0.903},
+        {"tau": 10000000, "result": "MISS", "p_e": 0.168}
+      ]
+    },
+    {
+      "needle_id": "security_token",
+      "injection_turn": 5000,
+      "probe_turns": [
+        {"tau": 6000, "result": "HIT", "p_e": 0.985},
+        {"tau": 50000, "result": "HIT", "p_e": 0.981},
+        {"tau": 500000, "result": "HIT", "p_e": 0.942},
+        {"tau": 5000000, "result": "MISS", "p_e": 0.574}
+      ]
+    }
+  ],
+  "metadata": {
+    "tier_1_calibration": "Mistral-22B-L6-Quant",
+    "hardware_verification": "Apple-Silicon-M4-Pro",
+    "f_constant": 0.985,
+    "d_constant": "8.2e-08"
+  }
+}

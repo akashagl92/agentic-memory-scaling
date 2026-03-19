@@ -1,14 +1,7 @@
 {
   "project_id": "moltbot-v2",
   "architectural_decisions": [
-    {"id": "ADR-038", "status": "approved", "description": "Hailo-8 Edge AI integration"},
-    {"id": "ADR-041", "status": "proposed", "description": "RGC Sentinel L0 Gating"}
+    {"id": "ADR-038", "status": "approved", "description": "Hailo-8 Edge AI integration"}
   ],
-  "user_preferences": {
-    "coding_style": "Functional TypeScript",
-    "documentation": "Mintlify / Root-Relative",
-    "persona": "Staff Engineer (Concise)"
-  },
-  "observed_entropy_threshold": 0.0,
   "last_marker": "turn_9984"
 }
