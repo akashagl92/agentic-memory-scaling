@@ -338,6 +338,8 @@ The Discovery Cliff separates two classes of memory architectures:
 - **SSC (The Efficient Baseline)**: Serves as the robust baseline for 99% of agentic use cases (sessions < 100k turns), providing $O(1)$ retrieval at zero overhead. Its simplicity makes it the default choice.
 - **RGC (The Extreme Specialist)**: Decouples **Discovery** $(O(\tau))$ from **Synthesis** $(O(1))$, maintaining a perfect signal-to-noise ratio regardless of haystack depth. Required only when $\tau$ exceeds the model-specific Discovery Cliff.
 
+This architectural fork raises a critical mechanistic question: **Why does the cliff occur?** Is it a failure of model "intelligence" (extraction quality) or a fundamental limit of transformer attention (temporal decay)? To answer this, we conduct a dual-tier ablation study.
+
 The diagram below illustrates why this divergence occurs:
 
 ```mermaid
@@ -422,6 +424,8 @@ This directionally invariant result proves that structural recall preference is 
 ![Schema Premium](../benchmarks/figures/ablation_fidelity_vs_decay_schema.png)
 _Figure 3c: Comparative recall between strict JSON consolidation and flexible Markdown at 10,000 turns. JSON exhibits a consistent +12.5% premium across all architectures._
 
+While the **Schema Premium** provides a critical mathematical buffer against discovery decay, its real-world utility for an agent is ultimately governed by the underlying compute fabric. If structured extraction is highly reliable but physically unscalable due to hardware latency, the architecture remains a theoretical curiosity. This leads us to evaluate the **Physical Cost of Memory** through the lens of hardware scaling.
+
 
 ### 4.4 Next-Generation Horizon Projections (G3.0, C4.6, N=1000)
 
@@ -445,10 +449,9 @@ Empirical calibration of the Google Flash ecosystem revealed a counter-intuitive
 | :--- | :--- | :--- | :--- | :--- |
 | **G2.5-FLASH** | 5,000 (125k) | 4.25s | 29,412 Tokens/sec | Standard Routing |
 | **G2.5-FLASH** | 40,000 (1M) | 16.03s | **62,383 Tokens/sec** | TPU v5 Migration |
-| **G3.0-FLASH** | 5,000 (125k) | 6.82s | 18,340 Tokens/sec | Standard Routing |
 | **G3.0-FLASH** | 40,000 (1M) | 15.04s | **66,479 Tokens/sec** | TPU v5 Migration |
-| **MISTRAL-22B** | 1,000 (25k) | 19.20s | 1,302 Tokens/sec | Local Apple Silicon |
-| **QWEN-32B** | 1,000 (25k) | 93.95s | 266 Tokens/sec | MLX 3-bit Quant |
+| **MISTRAL-22B** | 5,000 (125k) | >900s | <138 Tokens/sec | Local Apple Silicon |
+| **QWEN-32B** | 5,000 (125k) | TBD | TBD | MLX 3-bit Quant |
 
 **Finding**: The "Discovery Cliff" is not merely an attention-decay problem; it is an **Infrastructure Stability** problem. Our empirical discovery of **Inverted Latency** (TPS scaling _up_ with context) clarifies the hardware-level incentive for RGC. Across all three model generations, pushing the query from 5k to 40k turns triggers a significant increase in raw throughput (growing from ~29k TPS up to ~130k TPS in G3.1-LITE). This identifies **Architecture-Hardware Convergence** as a critical threshold for agentic scaling.
 
