@@ -1,0 +1,4522 @@
+[
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 0,
+    "latency": 43.19337320327759,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957516.74232,
+    "iso_time": "2026-03-19T21:58:36.742322+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 1,
+    "latency": 9.38126802444458,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957526.124429,
+    "iso_time": "2026-03-19T21:58:46.124431+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 2,
+    "latency": 9.224942922592163,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957535.3501298,
+    "iso_time": "2026-03-19T21:58:55.350130+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 3,
+    "latency": 9.183116912841797,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957544.533857,
+    "iso_time": "2026-03-19T21:59:04.533858+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 4,
+    "latency": 9.443361043930054,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957553.978013,
+    "iso_time": "2026-03-19T21:59:13.978015+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 5,
+    "latency": 11.156740188598633,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957565.13632,
+    "iso_time": "2026-03-19T21:59:25.136322+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 6,
+    "latency": 11.415879726409912,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957576.5549939,
+    "iso_time": "2026-03-19T21:59:36.554996+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 7,
+    "latency": 11.61347508430481,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957588.170635,
+    "iso_time": "2026-03-19T21:59:48.170637+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 8,
+    "latency": 11.009844064712524,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957599.182774,
+    "iso_time": "2026-03-19T21:59:59.182776+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 9,
+    "latency": 11.309415102005005,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957610.4938471,
+    "iso_time": "2026-03-19T22:00:10.493848+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 10,
+    "latency": 10.85813307762146,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957621.354191,
+    "iso_time": "2026-03-19T22:00:21.354193+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 11,
+    "latency": 8.966443061828613,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957630.323751,
+    "iso_time": "2026-03-19T22:00:30.323764+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 12,
+    "latency": 9.013699769973755,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957639.338825,
+    "iso_time": "2026-03-19T22:00:39.338827+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 13,
+    "latency": 8.939451932907104,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957648.279237,
+    "iso_time": "2026-03-19T22:00:48.279238+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 14,
+    "latency": 8.872018098831177,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957657.152158,
+    "iso_time": "2026-03-19T22:00:57.152160+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 15,
+    "latency": 8.819922924041748,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957665.9737291,
+    "iso_time": "2026-03-19T22:01:05.973732+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 16,
+    "latency": 8.978086948394775,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957674.953522,
+    "iso_time": "2026-03-19T22:01:14.953523+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 17,
+    "latency": 8.943161725997925,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957683.897687,
+    "iso_time": "2026-03-19T22:01:23.897688+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 18,
+    "latency": 8.944311618804932,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957692.843035,
+    "iso_time": "2026-03-19T22:01:32.843037+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 19,
+    "latency": 8.99354076385498,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957701.837503,
+    "iso_time": "2026-03-19T22:01:41.837505+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 20,
+    "latency": 9.177841901779175,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957711.0162601,
+    "iso_time": "2026-03-19T22:01:51.016262+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 21,
+    "latency": 9.854367971420288,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957720.8738859,
+    "iso_time": "2026-03-19T22:02:00.873888+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 22,
+    "latency": 9.622146606445312,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957730.499063,
+    "iso_time": "2026-03-19T22:02:10.499065+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 23,
+    "latency": 9.716027975082397,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957740.218109,
+    "iso_time": "2026-03-19T22:02:20.218111+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 24,
+    "latency": 9.439607858657837,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957749.6602528,
+    "iso_time": "2026-03-19T22:02:29.660256+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 25,
+    "latency": 11.289722204208374,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957760.953193,
+    "iso_time": "2026-03-19T22:02:40.953197+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 26,
+    "latency": 10.254066944122314,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957771.210326,
+    "iso_time": "2026-03-19T22:02:51.210328+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 27,
+    "latency": 9.443103313446045,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957780.662394,
+    "iso_time": "2026-03-19T22:03:00.662396+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 28,
+    "latency": 9.697108030319214,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957790.361711,
+    "iso_time": "2026-03-19T22:03:10.361713+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 29,
+    "latency": 9.78127908706665,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957800.146048,
+    "iso_time": "2026-03-19T22:03:20.146049+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 0,
+    "latency": 26.619921922683716,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_6178",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_1138",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4538",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_1231",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_6726",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957826.7672472,
+    "iso_time": "2026-03-19T22:03:46.767249+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 1,
+    "latency": 26.789276838302612,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_9434",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_2584",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_5134",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_4788",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_4770",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957853.558777,
+    "iso_time": "2026-03-19T22:04:13.558779+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 2,
+    "latency": 27.52637004852295,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_3020",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_1310",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_9369",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_8446",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_8194",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957881.086407,
+    "iso_time": "2026-03-19T22:04:41.086408+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 3,
+    "latency": 27.457261085510254,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_8305",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_4095",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_2649",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_8751",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_6452",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957908.545923,
+    "iso_time": "2026-03-19T22:05:08.545925+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 4,
+    "latency": 26.25291895866394,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_3438",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_7670",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_2743",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_4131",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_4469",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957934.800087,
+    "iso_time": "2026-03-19T22:05:34.800089+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 5,
+    "latency": 27.126119136810303,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_7782",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_6828",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_3748",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_1567",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_1398",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957961.928687,
+    "iso_time": "2026-03-19T22:06:01.928688+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 6,
+    "latency": 28.910953044891357,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_3164",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_2704",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_9442",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_5031",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_3198",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773957990.841059,
+    "iso_time": "2026-03-19T22:06:30.841061+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 7,
+    "latency": 29.822993993759155,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_5179",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_6707",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_6735",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_9698",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_8311",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958020.667691,
+    "iso_time": "2026-03-19T22:07:00.667693+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 8,
+    "latency": 27.718894720077515,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2794",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_2794",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_8226",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_3352",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_7626",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958048.388051,
+    "iso_time": "2026-03-19T22:07:28.388052+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 9,
+    "latency": 28.303624153137207,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_4006",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_7076",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_5640",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_4312",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9072",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958076.692938,
+    "iso_time": "2026-03-19T22:07:56.692939+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 10,
+    "latency": 28.662240028381348,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_7929",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_7972",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_7644",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_9194",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_6200",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958105.3572009,
+    "iso_time": "2026-03-19T22:08:25.357203+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 11,
+    "latency": 29.20214581489563,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_3194",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5801",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4821",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_8118",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_8151",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958134.56081,
+    "iso_time": "2026-03-19T22:08:54.560812+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 12,
+    "latency": 27.520974159240723,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_3039",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_4828",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_7480",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_9855",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_2645",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958162.083652,
+    "iso_time": "2026-03-19T22:09:22.083654+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 13,
+    "latency": 27.963958978652954,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_7657",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_1459",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_1274",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_6074",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_2168",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958190.051954,
+    "iso_time": "2026-03-19T22:09:50.051954+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 14,
+    "latency": 27.57589077949524,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_6987",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_8160",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_7098",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_6477",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_3423",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958217.63025,
+    "iso_time": "2026-03-19T22:10:17.630252+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 15,
+    "latency": 27.117375135421753,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_3363",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_4293",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_9742",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_1033",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_2746",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958244.7512,
+    "iso_time": "2026-03-19T22:10:44.751203+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 16,
+    "latency": 27.125450134277344,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_3507",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_3026",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_7551",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_8722",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_6092",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958271.878905,
+    "iso_time": "2026-03-19T22:11:11.878907+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 17,
+    "latency": 27.073790073394775,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_1787",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_3670",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4983",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_9052",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_5774",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958298.954933,
+    "iso_time": "2026-03-19T22:11:38.954934+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 18,
+    "latency": 27.06062889099121,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_4530",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_3744",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_5949",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_7239",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9118",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958326.0169091,
+    "iso_time": "2026-03-19T22:12:06.016910+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 19,
+    "latency": 26.522695779800415,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_8531",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_3038",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_8226",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_9836",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_5648",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958352.5420768,
+    "iso_time": "2026-03-19T22:12:32.542078+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 20,
+    "latency": 27.68384313583374,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_3289",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_7160",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_2744",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_3352",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_1952",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958380.227413,
+    "iso_time": "2026-03-19T22:13:00.227415+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 21,
+    "latency": 27.307783842086792,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2432",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_1118",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_9337",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_8195",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9812",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958407.538062,
+    "iso_time": "2026-03-19T22:13:27.538063+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 22,
+    "latency": 27.33781409263611,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_9929",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_7201",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4851",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_5292",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_4634",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958434.878958,
+    "iso_time": "2026-03-19T22:13:54.878959+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 23,
+    "latency": 26.55766487121582,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_4320",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_9799",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_6562",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_9630",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_3989",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958461.438404,
+    "iso_time": "2026-03-19T22:14:21.438405+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 24,
+    "latency": 26.778531789779663,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_8606",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_9550",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_6014",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_3117",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_3443",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958488.218412,
+    "iso_time": "2026-03-19T22:14:48.218414+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 25,
+    "latency": 26.40494728088379,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_7164",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_3828",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_8550",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_3221",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_2622",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958514.626824,
+    "iso_time": "2026-03-19T22:15:14.626825+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 26,
+    "latency": 26.95721411705017,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2556",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_6526",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_6805",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_6306",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_3590",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958541.587252,
+    "iso_time": "2026-03-19T22:15:41.587253+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 27,
+    "latency": 26.36723804473877,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_1263",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_4201",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4874",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_1178",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_1728",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958567.956776,
+    "iso_time": "2026-03-19T22:16:07.956777+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 28,
+    "latency": 26.568527936935425,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_6712",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_7243",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_8825",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_6078",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_5797",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958594.527082,
+    "iso_time": "2026-03-19T22:16:34.527084+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 29,
+    "latency": 26.35289192199707,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_9624",
+        "recalled": false,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_3357",
+        "recalled": false,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_7171",
+        "recalled": false,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_3704",
+        "recalled": false,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_5061",
+        "recalled": false,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773958620.882232,
+    "iso_time": "2026-03-19T22:17:00.882233+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 0,
+    "latency": 104.85829901695251,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958725.74288,
+    "iso_time": "2026-03-19T22:18:45.742885+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 1,
+    "latency": 11.229392051696777,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958736.975463,
+    "iso_time": "2026-03-19T22:18:56.975465+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 2,
+    "latency": 11.35025691986084,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958748.3296242,
+    "iso_time": "2026-03-19T22:19:08.329626+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 3,
+    "latency": 11.218417167663574,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958759.552983,
+    "iso_time": "2026-03-19T22:19:19.552985+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 4,
+    "latency": 11.103227138519287,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958770.661278,
+    "iso_time": "2026-03-19T22:19:30.661281+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 5,
+    "latency": 11.154567956924438,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958781.820628,
+    "iso_time": "2026-03-19T22:19:41.820629+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 6,
+    "latency": 11.228219985961914,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958793.0540109,
+    "iso_time": "2026-03-19T22:19:53.054013+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 7,
+    "latency": 10.994446754455566,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958804.053366,
+    "iso_time": "2026-03-19T22:20:04.053368+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 8,
+    "latency": 11.083134889602661,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958815.140523,
+    "iso_time": "2026-03-19T22:20:15.140525+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 9,
+    "latency": 10.94817590713501,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958826.093444,
+    "iso_time": "2026-03-19T22:20:26.093448+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 10,
+    "latency": 10.915719270706177,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958837.014117,
+    "iso_time": "2026-03-19T22:20:37.014118+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 11,
+    "latency": 10.849247932434082,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958847.866828,
+    "iso_time": "2026-03-19T22:20:47.866830+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 12,
+    "latency": 10.865694046020508,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958858.737579,
+    "iso_time": "2026-03-19T22:20:58.737580+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 13,
+    "latency": 10.781773090362549,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958869.525495,
+    "iso_time": "2026-03-19T22:21:09.525496+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 14,
+    "latency": 10.73096489906311,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958880.260057,
+    "iso_time": "2026-03-19T22:21:20.260059+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 15,
+    "latency": 10.716699838638306,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958890.981379,
+    "iso_time": "2026-03-19T22:21:30.981380+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 16,
+    "latency": 10.642461776733398,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958901.626487,
+    "iso_time": "2026-03-19T22:21:41.626489+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 17,
+    "latency": 10.651783227920532,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958912.283041,
+    "iso_time": "2026-03-19T22:21:52.283043+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 18,
+    "latency": 10.6284818649292,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958922.9165282,
+    "iso_time": "2026-03-19T22:22:02.916530+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 19,
+    "latency": 10.573731184005737,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958933.4953642,
+    "iso_time": "2026-03-19T22:22:13.495366+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 20,
+    "latency": 10.568825006484985,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958944.0702112,
+    "iso_time": "2026-03-19T22:22:24.070212+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 21,
+    "latency": 10.565692901611328,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958954.638775,
+    "iso_time": "2026-03-19T22:22:34.638777+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 22,
+    "latency": 10.589831829071045,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958965.233309,
+    "iso_time": "2026-03-19T22:22:45.233310+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 23,
+    "latency": 10.573549032211304,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958975.809521,
+    "iso_time": "2026-03-19T22:22:55.809523+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 24,
+    "latency": 10.558014869689941,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958986.373039,
+    "iso_time": "2026-03-19T22:23:06.373041+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 25,
+    "latency": 10.571670055389404,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773958996.950048,
+    "iso_time": "2026-03-19T22:23:16.950049+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 26,
+    "latency": 10.644474029541016,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773959007.597365,
+    "iso_time": "2026-03-19T22:23:27.597367+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 27,
+    "latency": 10.479151725769043,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773959018.0823522,
+    "iso_time": "2026-03-19T22:23:38.082355+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 28,
+    "latency": 10.425884246826172,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773959028.511946,
+    "iso_time": "2026-03-19T22:23:48.511948+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 29,
+    "latency": 10.502681732177734,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773959039.0210109,
+    "iso_time": "2026-03-19T22:23:59.021013+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 0,
+    "latency": 99.65684247016907,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_7906",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_9228",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_1094",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_1392",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_8771",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773959138.681211,
+    "iso_time": "2026-03-19T22:25:38.681217+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 1,
+    "latency": 104.91114711761475,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_6986",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_1703",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_3504",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_3652",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_8606",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773959243.5992541,
+    "iso_time": "2026-03-19T22:27:23.599261+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 2,
+    "latency": 108.0689492225647,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_3656",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_9960",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_8283",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_4179",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_6569",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773959351.6722822,
+    "iso_time": "2026-03-19T22:29:11.672292+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 3,
+    "latency": 106.8078920841217,
+    "success": false,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_5679",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_8924",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_8464",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2782",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_3242",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773959458.486969,
+    "iso_time": "2026-03-19T22:30:58.486977+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 0,
+    "latency": 24.294288158416748,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961268.264368,
+    "iso_time": "2026-03-19T23:01:08.264373+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 1,
+    "latency": 9.299639225006104,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961277.5686028,
+    "iso_time": "2026-03-19T23:01:17.568605+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 2,
+    "latency": 9.050331115722656,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961286.621498,
+    "iso_time": "2026-03-19T23:01:26.621500+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 3,
+    "latency": 8.892940044403076,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961295.5190852,
+    "iso_time": "2026-03-19T23:01:35.519086+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 4,
+    "latency": 9.028987169265747,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961304.550287,
+    "iso_time": "2026-03-19T23:01:44.550288+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 0,
+    "latency": 27.327283143997192,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_6586",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_7895",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_7568",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_7325",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_5396",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961331.879807,
+    "iso_time": "2026-03-19T23:02:11.879809+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 1,
+    "latency": 29.80501890182495,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_3183",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5917",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_8293",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2561",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_4971",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961361.695244,
+    "iso_time": "2026-03-19T23:02:41.695246+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 2,
+    "latency": 29.291835069656372,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_7820",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5640",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_3328",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_4233",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_7436",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961390.991542,
+    "iso_time": "2026-03-19T23:03:10.991544+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 3,
+    "latency": 28.575206995010376,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_7427",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_3451",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_7239",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_8053",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_5947",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961419.57151,
+    "iso_time": "2026-03-19T23:03:39.571516+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 4,
+    "latency": 26.22736430168152,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2883",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_9321",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_3554",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_7272",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9420",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961445.803329,
+    "iso_time": "2026-03-19T23:04:05.803341+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 0,
+    "latency": 107.0417549610138,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773961552.848342,
+    "iso_time": "2026-03-19T23:05:52.848346+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 1,
+    "latency": 11.688148975372314,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773961564.541389,
+    "iso_time": "2026-03-19T23:06:04.541390+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 2,
+    "latency": 12.06701397895813,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773961576.612153,
+    "iso_time": "2026-03-19T23:06:16.612159+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 3,
+    "latency": 11.509100914001465,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773961588.12637,
+    "iso_time": "2026-03-19T23:06:28.126372+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 4,
+    "latency": 11.739092826843262,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773961599.868736,
+    "iso_time": "2026-03-19T23:06:39.868738+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 0,
+    "latency": 110.26514482498169,
+    "success": true,
+    "recall_count": 0,
+    "recall_total": 5,
+    "recall_rate": 0.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_8113",
+        "recalled": false,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_7775",
+        "recalled": false,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_5028",
+        "recalled": false,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2855",
+        "recalled": false,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_5335",
+        "recalled": false,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773961710.138743,
+    "iso_time": "2026-03-19T23:08:30.138748+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 1,
+    "latency": 113.46162605285645,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_8691",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_3585",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_7598",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_6996",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_5117",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773961823.6057549,
+    "iso_time": "2026-03-19T23:10:23.605762+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 2,
+    "latency": 113.29701018333435,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_1798",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_6190",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4690",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_4162",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9500",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773961936.912076,
+    "iso_time": "2026-03-19T23:12:16.912082+00:00"
+  },
+  {
+    "model": "MISTRAL-22B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 3,
+    "latency": 113.83843803405762,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_5693",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_4861",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_6865",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_3288",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_7748",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773962050.7585568,
+    "iso_time": "2026-03-19T23:14:10.758647+00:00"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "turns": 500,
+    "baseline": {
+      "recall": true
+    },
+    "consolidation": {
+      "recall_rate": 98.978
+    },
+    "rgc": {
+      "recall_rate": 100.0,
+      "entropy": 0.0
+    },
+    "efficiency": 95.8,
+    "parameters": {
+      "fidelity": 0.99,
+      "decay": 1.2e-08,
+      "iterations": 1000
+    }
+  },
+  {
+    "turns": 1000,
+    "baseline": {
+      "recall": false
+    },
+    "consolidation": {
+      "recall_rate": 99.02
+    },
+    "rgc": {
+      "recall_rate": 100.0,
+      "entropy": 0.0
+    },
+    "efficiency": 97.67777777777778,
+    "parameters": {
+      "fidelity": 0.99,
+      "decay": 1.2e-08,
+      "iterations": 1000
+    }
+  },
+  {
+    "turns": 5000,
+    "baseline": {
+      "recall": false
+    },
+    "consolidation": {
+      "recall_rate": 98.974
+    },
+    "rgc": {
+      "recall_rate": 100.0,
+      "entropy": 0.0
+    },
+    "efficiency": 99.48222222222223,
+    "parameters": {
+      "fidelity": 0.99,
+      "decay": 1.2e-08,
+      "iterations": 1000
+    }
+  },
+  {
+    "turns": 10000,
+    "baseline": {
+      "recall": false
+    },
+    "consolidation": {
+      "recall_rate": 98.985
+    },
+    "rgc": {
+      "recall_rate": 100.0,
+      "entropy": 0.0
+    },
+    "efficiency": 99.72999999999999,
+    "parameters": {
+      "fidelity": 0.99,
+      "decay": 1.2e-08,
+      "iterations": 1000
+    }
+  },
+  {
+    "turns": 50000,
+    "baseline": {
+      "recall": false
+    },
+    "consolidation": {
+      "recall_rate": 98.972
+    },
+    "rgc": {
+      "recall_rate": 100.0,
+      "entropy": 0.0
+    },
+    "efficiency": 99.93933333333334,
+    "parameters": {
+      "fidelity": 0.99,
+      "decay": 1.2e-08,
+      "iterations": 1000
+    }
+  },
+  {
+    "turns": 100000,
+    "baseline": {
+      "recall": false
+    },
+    "consolidation": {
+      "recall_rate": 98.905
+    },
+    "rgc": {
+      "recall_rate": 100.0,
+      "entropy": 0.0
+    },
+    "efficiency": 99.96877777777777,
+    "parameters": {
+      "fidelity": 0.99,
+      "decay": 1.2e-08,
+      "iterations": 1000
+    }
+  },
+  {
+    "turns": 500000,
+    "baseline": {
+      "recall": false
+    },
+    "consolidation": {
+      "recall_rate": 98.422
+    },
+    "rgc": {
+      "recall_rate": 100.0,
+      "entropy": 0.0
+    },
+    "efficiency": 99.99326666666667,
+    "parameters": {
+      "fidelity": 0.99,
+      "decay": 1.2e-08,
+      "iterations": 1000
+    }
+  },
+  {
+    "turns": 1000000,
+    "baseline": {
+      "recall": false
+    },
+    "consolidation": {
+      "recall_rate": 97.799
+    },
+    "rgc": {
+      "recall_rate": 100.0,
+      "entropy": 0.0
+    },
+    "efficiency": 99.9965,
+    "parameters": {
+      "fidelity": 0.99,
+      "decay": 1.2e-08,
+      "iterations": 1000
+    }
+  },
+  {
+    "turns": 5000000,
+    "baseline": {
+      "recall": false
+    },
+    "consolidation": {
+      "recall_rate": 93.123
+    },
+    "rgc": {
+      "recall_rate": 100.0,
+      "entropy": 0.0
+    },
+    "efficiency": 99.99926,
+    "parameters": {
+      "fidelity": 0.99,
+      "decay": 1.2e-08,
+      "iterations": 1000
+    }
+  },
+  {
+    "turns": 10000000,
+    "baseline": {
+      "recall": false
+    },
+    "consolidation": {
+      "recall_rate": 87.109
+    },
+    "rgc": {
+      "recall_rate": 100.0,
+      "entropy": 0.0
+    },
+    "efficiency": 99.99962777777777,
+    "parameters": {
+      "fidelity": 0.99,
+      "decay": 1.2e-08,
+      "iterations": 1000
+    }
+  }
+]

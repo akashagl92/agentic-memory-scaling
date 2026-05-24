@@ -1,0 +1,4242 @@
+[
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 0,
+    "latency": 42.791964054107666,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960189.591945,
+    "iso_time": "2026-03-19T22:43:09.592085+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 1,
+    "latency": 16.751377820968628,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960206.351373,
+    "iso_time": "2026-03-19T22:43:26.351376+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 2,
+    "latency": 16.348098039627075,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960222.700624,
+    "iso_time": "2026-03-19T22:43:42.700626+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 3,
+    "latency": 15.77406907081604,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960238.476106,
+    "iso_time": "2026-03-19T22:43:58.476119+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 4,
+    "latency": 14.984106063842773,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960253.4619892,
+    "iso_time": "2026-03-19T22:44:13.461994+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 5,
+    "latency": 14.37887692451477,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960267.844199,
+    "iso_time": "2026-03-19T22:44:27.844202+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 6,
+    "latency": 14.345741033554077,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960282.191587,
+    "iso_time": "2026-03-19T22:44:42.191593+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 7,
+    "latency": 14.254090070724487,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960296.449706,
+    "iso_time": "2026-03-19T22:44:56.449713+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 8,
+    "latency": 13.369917869567871,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960309.822093,
+    "iso_time": "2026-03-19T22:45:09.822098+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 9,
+    "latency": 11.116690158843994,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960320.9404328,
+    "iso_time": "2026-03-19T22:45:20.940438+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 10,
+    "latency": 10.535566091537476,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960331.478442,
+    "iso_time": "2026-03-19T22:45:31.478455+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 11,
+    "latency": 10.280453205108643,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960341.762878,
+    "iso_time": "2026-03-19T22:45:41.762882+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 12,
+    "latency": 10.272740125656128,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960352.0372758,
+    "iso_time": "2026-03-19T22:45:52.037278+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 13,
+    "latency": 9.85819411277771,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960361.897198,
+    "iso_time": "2026-03-19T22:46:01.897208+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 14,
+    "latency": 10.539721012115479,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960372.440383,
+    "iso_time": "2026-03-19T22:46:12.440385+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 15,
+    "latency": 10.577931880950928,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960383.019966,
+    "iso_time": "2026-03-19T22:46:23.019969+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 16,
+    "latency": 10.123828887939453,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960393.145571,
+    "iso_time": "2026-03-19T22:46:33.145578+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 17,
+    "latency": 9.879538774490356,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960403.030847,
+    "iso_time": "2026-03-19T22:46:43.030851+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 18,
+    "latency": 9.807197093963623,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960412.839933,
+    "iso_time": "2026-03-19T22:46:52.839935+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 19,
+    "latency": 10.15353798866272,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960422.996147,
+    "iso_time": "2026-03-19T22:47:02.996152+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 20,
+    "latency": 10.110116720199585,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960433.1099079,
+    "iso_time": "2026-03-19T22:47:13.109910+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 21,
+    "latency": 10.735087871551514,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960443.8481522,
+    "iso_time": "2026-03-19T22:47:23.848156+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 22,
+    "latency": 10.44270396232605,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960454.293157,
+    "iso_time": "2026-03-19T22:47:34.293159+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 23,
+    "latency": 10.538731813430786,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960464.83428,
+    "iso_time": "2026-03-19T22:47:44.834288+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 24,
+    "latency": 10.820366144180298,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960475.656673,
+    "iso_time": "2026-03-19T22:47:55.656674+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 25,
+    "latency": 10.80741000175476,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960486.465844,
+    "iso_time": "2026-03-19T22:48:06.465845+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 26,
+    "latency": 11.15899920463562,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960497.625985,
+    "iso_time": "2026-03-19T22:48:17.625987+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 27,
+    "latency": 10.840934753417969,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960508.4686139,
+    "iso_time": "2026-03-19T22:48:28.468617+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 28,
+    "latency": 10.880896091461182,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960519.351202,
+    "iso_time": "2026-03-19T22:48:39.351204+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "warm",
+    "iteration": 29,
+    "latency": 10.67421817779541,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960530.026706,
+    "iso_time": "2026-03-19T22:48:50.026708+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 0,
+    "latency": 33.02741289138794,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2021",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_7533",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_7247",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2608",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_8184",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960563.055485,
+    "iso_time": "2026-03-19T22:49:23.055489+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 1,
+    "latency": 32.02764105796814,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_6112",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_1760",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_3168",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_1919",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_6065",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960595.084749,
+    "iso_time": "2026-03-19T22:49:55.084754+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 2,
+    "latency": 31.69897770881653,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_7770",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_6203",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_2073",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_3673",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_7535",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960626.7860281,
+    "iso_time": "2026-03-19T22:50:26.786033+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 3,
+    "latency": 32.51839089393616,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_4219",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_9842",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_2855",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_7077",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_1807",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960659.306634,
+    "iso_time": "2026-03-19T22:50:59.306643+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 4,
+    "latency": 32.46162414550781,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_8407",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_2707",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_2025",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_3919",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_7807",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960691.771156,
+    "iso_time": "2026-03-19T22:51:31.771162+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 5,
+    "latency": 32.97028708457947,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_8478",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_2120",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_3775",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_8863",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_3990",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960724.744632,
+    "iso_time": "2026-03-19T22:52:04.744634+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 6,
+    "latency": 35.57341027259827,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_7650",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_1239",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4872",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_9681",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_2828",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960760.320162,
+    "iso_time": "2026-03-19T22:52:40.320172+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 7,
+    "latency": 35.54125213623047,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_6143",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_3314",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4602",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_8691",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_6662",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960795.872841,
+    "iso_time": "2026-03-19T22:53:15.872867+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 8,
+    "latency": 36.06282377243042,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2893",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_3254",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_7348",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_1760",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_8348",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960831.941182,
+    "iso_time": "2026-03-19T22:53:51.941191+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 9,
+    "latency": 36.231127977371216,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_8103",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_8048",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_2684",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_8852",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_4222",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960900.822328,
+    "iso_time": "2026-03-19T22:55:00.822332+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 10,
+    "latency": 34.693378925323486,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2923",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_4697",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_7311",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_3856",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_3241",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960935.521216,
+    "iso_time": "2026-03-19T22:55:35.521224+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 11,
+    "latency": 35.21990180015564,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_9429",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5886",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_3729",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_9821",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_5753",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773960970.745939,
+    "iso_time": "2026-03-19T22:56:10.745942+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 12,
+    "latency": 33.24982190132141,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_1512",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_8940",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_7259",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_8948",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_5646",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961003.998723,
+    "iso_time": "2026-03-19T22:56:43.998725+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 13,
+    "latency": 33.26181387901306,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2262",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_1434",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_5671",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_9072",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_8242",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961037.263199,
+    "iso_time": "2026-03-19T22:57:17.263205+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 14,
+    "latency": 34.900519132614136,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_3017",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_7459",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_3559",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_8829",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_5166",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961072.1763022,
+    "iso_time": "2026-03-19T22:57:52.176316+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 15,
+    "latency": 35.53897285461426,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_6880",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_4537",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_1416",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_7196",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_4809",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961107.7196841,
+    "iso_time": "2026-03-19T22:58:27.719687+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 16,
+    "latency": 37.105502128601074,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_8941",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_5714",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_9807",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2821",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_8242",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961144.828468,
+    "iso_time": "2026-03-19T22:59:04.828476+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 17,
+    "latency": 37.43966317176819,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_9223",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_9457",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_7282",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_4105",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_9657",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961182.274421,
+    "iso_time": "2026-03-19T22:59:42.274425+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 18,
+    "latency": 35.037952184677124,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_9730",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_3631",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_8656",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_7157",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_1458",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773961217.318982,
+    "iso_time": "2026-03-19T23:00:17.318988+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 0,
+    "latency": 137.71945691108704,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773962252.074542,
+    "iso_time": "2026-03-19T23:17:32.074558+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 1,
+    "latency": 16.42051601409912,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773962268.499807,
+    "iso_time": "2026-03-19T23:17:48.499811+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 2,
+    "latency": 15.416996002197266,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773962283.925788,
+    "iso_time": "2026-03-19T23:18:03.925795+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 3,
+    "latency": 15.540045976638794,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773962299.470623,
+    "iso_time": "2026-03-19T23:18:19.470629+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 4,
+    "latency": 14.135376214981079,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773962313.611076,
+    "iso_time": "2026-03-19T23:18:33.611079+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 0,
+    "latency": 128.1992471218109,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_5216",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_6191",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_3193",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_5828",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_6325",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773962441.814395,
+    "iso_time": "2026-03-19T23:20:41.814399+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 1,
+    "latency": 130.0431399345398,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_1342",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_3488",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_1599",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_7387",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_2314",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773962571.860159,
+    "iso_time": "2026-03-19T23:22:51.860161+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 2,
+    "latency": 134.76281094551086,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_6715",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_4130",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_6234",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_6601",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_3341",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773962706.627074,
+    "iso_time": "2026-03-19T23:25:06.627076+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 3,
+    "latency": 134.5809841156006,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_6790",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_4238",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_2797",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_1464",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_2992",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773962841.212876,
+    "iso_time": "2026-03-19T23:27:21.212881+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 4,
+    "latency": 133.12830686569214,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_7037",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_7718",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4053",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_6897",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_6530",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773962974.347488,
+    "iso_time": "2026-03-19T23:29:34.347497+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 1000,
+    "mode": "warm",
+    "iteration": 0,
+    "latency": 277.36073207855225,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 950
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 800
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 500
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 200
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 50
+      }
+    ],
+    "timestamp": 1773963251.735276,
+    "iso_time": "2026-03-19T23:34:11.735383+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 1000,
+    "mode": "warm",
+    "iteration": 1,
+    "latency": 60.83334493637085,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 950
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 800
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 500
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 200
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 50
+      }
+    ],
+    "timestamp": 1773963312.621197,
+    "iso_time": "2026-03-19T23:35:12.621218+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 19,
+    "latency": 80.67610716819763,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_4363",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_9281",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_5997",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_9798",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_4015",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773965021.042799,
+    "iso_time": "2026-03-20T00:03:41.042806+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 20,
+    "latency": 30.13063097000122,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_4764",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_3278",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_3423",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_6350",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_4426",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773965051.176529,
+    "iso_time": "2026-03-20T00:04:11.176535+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 21,
+    "latency": 31.84934711456299,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_1866",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_6213",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_9561",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2177",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_3564",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773965083.0308611,
+    "iso_time": "2026-03-20T00:04:43.030863+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 22,
+    "latency": 32.81445097923279,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2128",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_6611",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_3348",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_3761",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_4391",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773965115.8481789,
+    "iso_time": "2026-03-20T00:05:15.848187+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 23,
+    "latency": 35.27277493476868,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_5612",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_6456",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4726",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_7424",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_3324",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773965151.125061,
+    "iso_time": "2026-03-20T00:05:51.125065+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 24,
+    "latency": 35.77337384223938,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2202",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_8418",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_2980",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_3811",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_8636",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773965186.905932,
+    "iso_time": "2026-03-20T00:06:26.905945+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 25,
+    "latency": 33.922961950302124,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_1201",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_3192",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_4774",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2487",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_7986",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773965220.838805,
+    "iso_time": "2026-03-20T00:07:00.838835+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 26,
+    "latency": 36.979896068573,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_5880",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_8233",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_5452",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_6084",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_5754",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773965257.8303108,
+    "iso_time": "2026-03-20T00:07:37.830349+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 27,
+    "latency": 36.43326687812805,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_4841",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_7283",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_7515",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_9907",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_1721",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773965294.2700002,
+    "iso_time": "2026-03-20T00:08:14.270010+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 28,
+    "latency": 36.63501191139221,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_3897",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_7745",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_2278",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_2022",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_3494",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773965330.910559,
+    "iso_time": "2026-03-20T00:08:50.910565+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 100,
+    "mode": "cold",
+    "iteration": 29,
+    "latency": 36.80895400047302,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_3423",
+        "recalled": true,
+        "age": 95
+      },
+      {
+        "id": "NEEDLE_B_4803",
+        "recalled": true,
+        "age": 80
+      },
+      {
+        "id": "NEEDLE_C_3160",
+        "recalled": true,
+        "age": 50
+      },
+      {
+        "id": "NEEDLE_D_4950",
+        "recalled": true,
+        "age": 20
+      },
+      {
+        "id": "NEEDLE_E_3339",
+        "recalled": true,
+        "age": 5
+      }
+    ],
+    "timestamp": 1773965367.7347252,
+    "iso_time": "2026-03-20T00:09:27.734731+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 5,
+    "latency": 127.87069296836853,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965495.611389,
+    "iso_time": "2026-03-20T00:11:35.611398+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 6,
+    "latency": 21.088804244995117,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965516.717819,
+    "iso_time": "2026-03-20T00:11:56.717827+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 7,
+    "latency": 15.235265970230103,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965531.960981,
+    "iso_time": "2026-03-20T00:12:11.960990+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 8,
+    "latency": 16.879432916641235,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965548.850564,
+    "iso_time": "2026-03-20T00:12:28.850571+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 9,
+    "latency": 16.235095977783203,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965565.1013288,
+    "iso_time": "2026-03-20T00:12:45.101338+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 10,
+    "latency": 14.78942584991455,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965579.924483,
+    "iso_time": "2026-03-20T00:12:59.924488+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 11,
+    "latency": 14.352517127990723,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965594.312844,
+    "iso_time": "2026-03-20T00:13:14.312858+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 12,
+    "latency": 13.429253101348877,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965607.753602,
+    "iso_time": "2026-03-20T00:13:27.753608+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 13,
+    "latency": 12.592899799346924,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965620.357693,
+    "iso_time": "2026-03-20T00:13:40.357702+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 14,
+    "latency": 12.735368967056274,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965633.1033359,
+    "iso_time": "2026-03-20T00:13:53.103342+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 15,
+    "latency": 12.862414121627808,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965645.9891999,
+    "iso_time": "2026-03-20T00:14:05.989222+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 16,
+    "latency": 12.0995192527771,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965658.1153111,
+    "iso_time": "2026-03-20T00:14:18.115314+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 17,
+    "latency": 12.222652912139893,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965670.344267,
+    "iso_time": "2026-03-20T00:14:30.344272+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 18,
+    "latency": 12.464412927627563,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965682.816444,
+    "iso_time": "2026-03-20T00:14:42.816449+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 19,
+    "latency": 11.527789831161499,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965694.351205,
+    "iso_time": "2026-03-20T00:14:54.351208+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 20,
+    "latency": 12.224014043807983,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965706.578519,
+    "iso_time": "2026-03-20T00:15:06.578519+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 21,
+    "latency": 11.976178169250488,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965718.558699,
+    "iso_time": "2026-03-20T00:15:18.558703+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 22,
+    "latency": 11.949249029159546,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965730.510824,
+    "iso_time": "2026-03-20T00:15:30.510826+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 23,
+    "latency": 11.954214811325073,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965742.469005,
+    "iso_time": "2026-03-20T00:15:42.469006+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 24,
+    "latency": 11.790390014648438,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965754.262628,
+    "iso_time": "2026-03-20T00:15:54.262628+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 25,
+    "latency": 11.924450874328613,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965766.189821,
+    "iso_time": "2026-03-20T00:16:06.189823+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 26,
+    "latency": 11.72819995880127,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965777.9230871,
+    "iso_time": "2026-03-20T00:16:17.923088+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 27,
+    "latency": 11.794859886169434,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965789.7211258,
+    "iso_time": "2026-03-20T00:16:29.721128+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 28,
+    "latency": 11.692912817001343,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965801.4168499,
+    "iso_time": "2026-03-20T00:16:41.416851+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "warm",
+    "iteration": 29,
+    "latency": 11.70568585395813,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_2824",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5506",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_4657",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2679",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9935",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965813.128159,
+    "iso_time": "2026-03-20T00:16:53.128161+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 5,
+    "latency": 118.8156189918518,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_5499",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_9623",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_9552",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_5833",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_4499",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773965931.9465332,
+    "iso_time": "2026-03-20T00:18:51.946536+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 6,
+    "latency": 122.51517486572266,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_6938",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_4977",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_7920",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2229",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_9684",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773966054.465524,
+    "iso_time": "2026-03-20T00:20:54.465529+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 7,
+    "latency": 126.24248003959656,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_7032",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_2105",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_2078",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_3145",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_3372",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773966180.711383,
+    "iso_time": "2026-03-20T00:23:00.711387+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 8,
+    "latency": 129.14422607421875,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_8977",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_8655",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_9021",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_6030",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_8780",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773966309.860378,
+    "iso_time": "2026-03-20T00:25:09.860384+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 9,
+    "latency": 126.12132811546326,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_9188",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_1747",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_8556",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_2008",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_3516",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773966435.9871418,
+    "iso_time": "2026-03-20T00:27:15.987146+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 10,
+    "latency": 127.19545698165894,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_6912",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_9778",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_6824",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_4915",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_2369",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773966563.194998,
+    "iso_time": "2026-03-20T00:29:23.195005+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 11,
+    "latency": 126.49309802055359,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_4317",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_4286",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_9586",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_3901",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_8717",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773966689.696824,
+    "iso_time": "2026-03-20T00:31:29.696829+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 12,
+    "latency": 129.05392789840698,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_1365",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_5457",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_5593",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_3075",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_4234",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773966818.7622,
+    "iso_time": "2026-03-20T00:33:38.762204+00:00"
+  },
+  {
+    "model": "QWEN-32B",
+    "depth": 500,
+    "mode": "cold",
+    "iteration": 13,
+    "latency": 132.18814897537231,
+    "success": true,
+    "recall_count": 5,
+    "recall_total": 5,
+    "recall_rate": 1.0,
+    "scores": [
+      {
+        "id": "NEEDLE_A_1505",
+        "recalled": true,
+        "age": 475
+      },
+      {
+        "id": "NEEDLE_B_8197",
+        "recalled": true,
+        "age": 400
+      },
+      {
+        "id": "NEEDLE_C_6563",
+        "recalled": true,
+        "age": 250
+      },
+      {
+        "id": "NEEDLE_D_1164",
+        "recalled": true,
+        "age": 100
+      },
+      {
+        "id": "NEEDLE_E_4938",
+        "recalled": true,
+        "age": 25
+      }
+    ],
+    "timestamp": 1773966950.964939,
+    "iso_time": "2026-03-20T00:35:50.964953+00:00"
+  }
+]
